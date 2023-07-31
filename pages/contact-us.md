@@ -15,7 +15,6 @@ contacts:
   - content:
       - phone: ""
       - email: OAE_Council@mccy.gov.sg
-      - other: "The email is managed by OAE Council Secretariat Team: Edvan Loh and
-          Nuffazli Abu Bakar."
+      - other: ""
     title: General Enquiries & Feedback
 ---
