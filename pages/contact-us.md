@@ -13,8 +13,9 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: OAE_Council@mccy.gov.sg
+      - other: "The email is managed by OAE Council Secretariat Team: Edvan Loh and
+          Nuffazli Abu Bakar."
     title: General Enquiries & Feedback
 ---
