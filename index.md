@@ -13,9 +13,7 @@ sections:
       url: /contact-us/
   - infobar:
       title: Welcome to the OAE Council Singapore website
-      subtitle: Subtitle
-      description: " Explore our site for empowering resources and programs. Embrace
-        outdoor education's boundless possibilities!"
-      button: Button text
+      description: Explore our site for empowering resources and programs. Embrace
+        outdoor education's boundless possibilities!
       url: /faq/
 ---
