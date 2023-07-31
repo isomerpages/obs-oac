@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Resources.md
-      - Safety/.keep
-      - Safety/Safety.md
