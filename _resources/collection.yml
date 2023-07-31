@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Resources.md
-      - example-subfolder/.keep
-      - example-subfolder/Safety.md
+      - Safety/.keep
+      - Safety/Safety.md
