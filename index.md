@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Outoor Adventure Education Council
+      title: Outdoor Adventure Education Council
       subtitle: Singapore
       background: /images/hero-banner.png
       button: Contact Us
