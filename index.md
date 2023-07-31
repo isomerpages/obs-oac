@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       title: Outdoor Adventure Education Council
-      subtitle: Singapore
+      subtitle: Welcome to the Outdoor Adventure Education (OAE) Council Singapore
+        website
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
