@@ -3,7 +3,7 @@ title: News
 permalink: /news/
 description: ""
 ---
-# **Catch up on what’s going on in the outdoor adventure education sector!**
+# Catch up on what’s going on in the outdoor adventure education sector!
 
 *New council formed to revamp Singapore's outdoor adventure education sector*
 https://www.channelnewsasia.com/singapore/council-outdoor-adventure-education-safety-infrastructure-2955191
