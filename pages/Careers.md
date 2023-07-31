@@ -4,7 +4,7 @@ permalink: /careers/
 description: ""
 ---
 # Interested to be part of the industry?
-#### The sector provides a spectrum of careers that one can explore. Click on the links below to find our more from the respective organisations.
+#### The sector provides a spectrum of careers that one can explore. Click on the links below to find out more from the respective organisations.
 
 
 
