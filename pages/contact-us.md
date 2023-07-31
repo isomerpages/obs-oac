@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Outdoor Adventure Education Council
 locations:
   - address:
-      - "Blk 490 Lorong 6 Toa Payoh "
+      - Blk 490 Lorong 6 Toa Payoh
       - "HDB Hub Biz Three #04-10"
       - Singapore 310490
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
     title: National Youth Council Office
 contacts:
   - content:
