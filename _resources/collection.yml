@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - folder-page.md
+      - Resources.md
       - example-subfolder/.keep
       - example-subfolder/Safety.md
