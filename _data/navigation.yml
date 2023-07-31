@@ -2,3 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /About-us/
+  - title: News
+    url: /News
+  - title: Courses
+    url: /Courses
+  - title: Careers
+    url: /Careers
+  - title: Resources
+    collection: example-folder
+  - title: Contact Us
+    url: /contact-us
