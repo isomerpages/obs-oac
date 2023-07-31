@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Statistics.md
       - Guides.md
       - Advisories.md
