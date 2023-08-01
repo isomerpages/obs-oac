@@ -3,7 +3,7 @@ title: Courses
 permalink: /courses/
 description: ""
 ---
-## Looking for skills and knowledge to join the industry? 
+## Looking for Skills and Knowledge to join the industry or Upgrade? 
 
 
 
