@@ -4,7 +4,7 @@ permalink: /courses/
 description: ""
 ---
 ## Looking for skills and knowledge to join the industry? 
-#### Want to increase your current skill set? Browse below for courses that can help you.
+
 
 
 
