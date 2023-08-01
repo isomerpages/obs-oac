@@ -14,6 +14,7 @@ description: ""
 | Graduate Diploma in Outdoor Education | Singapore University of Social Sciences | https://postgrad.com.sg/grad-diploma-outdoor-education-suss-nshd/
 
 
+
 | Accreditation Course | Offered By | Links|
 | -------- | -------- | -------- |
 | Challenge Course Instructor Level 1 & 2  | Outward Bound Singapore (OBS) | https://www.nyc.gov.sg/obs/programmes |
