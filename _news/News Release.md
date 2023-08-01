@@ -3,7 +3,7 @@ title: News Release
 permalink: /news/news/
 description: ""
 ---
-## Catch up on what’s going on in the outdoor adventure education sector!
+## Stay Updated with the Latest in Outdoor Adventure Education Sector
 
 
 #### In the news
