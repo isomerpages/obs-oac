@@ -1,6 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - Guides.md
-      - Advisories.md
