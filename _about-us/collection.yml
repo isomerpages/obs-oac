@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Milestones.md
-      - Council Members.md
-      - Structure.md
       - Overview.md
+      - Structure.md
+      - Council Members.md
+      - Milestones.md
