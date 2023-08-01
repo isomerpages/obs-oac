@@ -9,7 +9,7 @@ description: ""
 #### In the news
 
 *Schools resume height-based activities but at lower capacity, after two-year suspension*
-https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221
+[https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221](https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221)
 
 
 *Height-based outdoor activities for schools to resume from Feb 2023*
