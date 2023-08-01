@@ -4,7 +4,9 @@ links:
     collection: about-us
   - title: Newroom
     collection: news
-  - title: Contact Us
-    url: /contact-us/
   - title: Research
     collection: research
+  - title: Contact Us
+    url: /contact-us/
+  - title: Risk Management
+    collection: risk-management
