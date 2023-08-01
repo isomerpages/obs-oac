@@ -2,7 +2,7 @@ collections:
   news:
     output: true
     order:
-      - Initiatives.md
       - News Release.md
       - Articles.md
+      - Initiatives.md
       - Events.md
