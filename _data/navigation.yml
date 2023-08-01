@@ -2,13 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us/
-  - title: News & Events
-    url: /news/
-  - title: Courses
+  - title: Professional Development
     url: /courses/
-  - title: Careers
-    url: /careers/
-  - title: Resources
-    url: /resources/
   - title: Contact Us
     url: /contact-us/
