@@ -1,0 +1,4 @@
+collections:
+  risk-management:
+    output: true
+    order: []
