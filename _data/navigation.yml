@@ -1,8 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    url: /about-us/
-  - title: Professional Development
-    url: /courses/
   - title: Contact Us
     url: /contact-us/
+  - title: About Us
+    collection: about-us
