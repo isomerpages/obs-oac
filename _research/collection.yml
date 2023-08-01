@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Advisory Report.md
-      - Survey.md
       - Findings and Analysis.md
+      - Survey.md
