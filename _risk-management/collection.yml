@@ -2,5 +2,6 @@ collections:
   risk-management:
     output: true
     order:
+      - Legal.md
       - Tools and Templates.md
       - Good Practices.md
