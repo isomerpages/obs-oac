@@ -3,7 +3,7 @@ title: Events
 permalink: /news/events/
 description: ""
 ---
-## Find out what is happening in the OAE Sector
+## Stay Up-to-Date with Exciting Events in the OAE Sector
 
 
 
