@@ -1,5 +1,0 @@
-collections:
-  upcoming:
-    output: true
-    order:
-      - Initiatives.md
