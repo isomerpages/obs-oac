@@ -2,5 +2,5 @@ collections:
   news:
     output: true
     order:
-      - News & Events.md
+      - News.md
       - Events.md
