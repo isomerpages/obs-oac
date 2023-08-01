@@ -1,4 +1,5 @@
 collections:
   research:
     output: true
-    order: []
+    order:
+      - Survey.md
