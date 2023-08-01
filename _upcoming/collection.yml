@@ -1,4 +1,5 @@
 collections:
   upcoming:
     output: true
-    order: []
+    order:
+      - Initiatives.md
