@@ -2,6 +2,6 @@ collections:
   research:
     output: true
     order:
-      - Findings and Analysis.md
       - Advisory Report.md
       - Survey.md
+      - Findings and Analysis.md
