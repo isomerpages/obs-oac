@@ -6,8 +6,6 @@ description: ""
 ## Stay Updated with the Latest in the Outdoor Adventure Education Sector
 
 
-#### In the news
-
 *Schools resume height-based activities but at lower capacity, after two-year suspension*
 [https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221](https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221)
 
