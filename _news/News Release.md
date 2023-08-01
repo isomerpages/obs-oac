@@ -15,11 +15,3 @@ description: ""
 [https://www.moe.gov.sg/news/press-releases/20170223-building-resilience-together-through-enhanced-outdoor-education-curriculum](https://www.moe.gov.sg/news/press-releases/20170223-building-resilience-together-through-enhanced-outdoor-education-curriculum)
 
 
-
-#### Upcoming Events
-
-
-
-| Date | Event | Location|
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
