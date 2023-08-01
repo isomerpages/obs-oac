@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Advisory Report.md
       - Survey.md
