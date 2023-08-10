@@ -7,12 +7,12 @@ Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member 
 
 In its first 3-year term, the Council will:
 
-1.Establish and develop national standards\* for installation, operations, training and certification of all OAE activities;
+1. Establish and develop national standards\* for installation, operations, training and certification of all OAE activities;
 
-2.Develop Sector Skills Framework for the professional development of OAE practitioners;
+2. Develop Sector Skills Framework for the professional development of OAE practitioners;
 
-3.Promote adoption of and compliance to the national standards and the certification scheme among sector stakeholders; and
+3. Promote adoption of and compliance to the national standards and the certification scheme among sector stakeholders; and
 
-4.Continue to engage with the OAE community and propose schemes, resources, pathways and other enabling structures to support growth and transformation of the sector
+4. Continue to engage with the OAE community and propose schemes, resources, pathways and other enabling structures to support growth and transformation of the sector
 
 \*Together with Enterprise Singapore and the Singapore Standards Council
