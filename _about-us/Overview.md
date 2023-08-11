@@ -3,6 +3,8 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
+## Mandate of the Outdoor Adventure Education Council
+
 Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member OAE Council is an advisory body comprising government agencies, private sector providers, outdoor practitioners and relevant experts from academia, industrial safety and professional development.
 
 In its first 3-year term, the Council will:
