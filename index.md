@@ -14,8 +14,8 @@ sections:
       subtitle: Established in September 2022, , the 19-member OAE Council is an
         advisory body to the Ministry of Culture, Community and Youth (MCCY)
       key_highlights:
-        - title: Highlight 1
-          description: Key Highlight description
+        - title: About us
+          description: Details about the OAE Council
           url: ""
         - title: Highlight 2
           description: Key Highlight description
