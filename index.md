@@ -4,7 +4,7 @@ title: Outdoor Adventure Education (OAE) Council Singapore
 description: An official OAE resource site managed by the OAE Council
 image: /images/isomer-logo.svg
 permalink: /
-notification: An official OAE Resource site developed by the OAE Council Singapore
+notification: ""
 sections:
   - hero:
       title: Outdoor Adventure Education (OAE) Council
