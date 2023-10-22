@@ -20,14 +20,15 @@ sections:
       description: Established in September 2021, the 19-member OAE Council is an
         advisory body to the Ministry of Culture, Community and Youth (MCCY).
       button: Read More
-      url: /about us
+      url: /about-us
       image: /images/noec 2022 - group informal.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Newsroom
+      subtitle: Archives and Updates
       id: infopic
-      description: Infopic description
+      description: Find out media releases, statements, and  happenings in the
+        Singapore OAE landscape.
       button: Button Text
       alt: Image alt text
 ---
