@@ -20,7 +20,7 @@ sections:
       description: Established in September 2021, the 19-member OAE Council is an
         advisory body to the Ministry of Culture, Community and Youth (MCCY).
       button: Read More
-      url: /about-us
+      url: about-us
       image: /images/noec 2022 - group informal.jpg
       alt: Image alt text
   - infopic:
@@ -32,5 +32,5 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/newspaper.jpg
-      url: /newsroom
+      url: news
 ---
