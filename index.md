@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Outdoor Adventure Education (OAE) Council Singapore
-description: An Isomer site of the Singapore Government
+description: An official OAE resource site managed by the OAE Council
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
