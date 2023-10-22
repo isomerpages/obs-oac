@@ -29,6 +29,8 @@ sections:
       id: infopic
       description: Find out media releases, statements, and  happenings in the
         Singapore OAE landscape.
-      button: Button Text
+      button: Find out more
       alt: Image alt text
+      image: /images/newspaper.jpg
+      url: /newsroom
 ---
