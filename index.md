@@ -7,10 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Outdoor Adventure Education Council
-      background: /images/hero-banner.png
+      title: Outdoor Adventure Education (OAE) Council
+      background: /images/noec 2022 - group informal.jpg
       button: Contact Us
       url: /contact-us/
+      subtitle: Established in September 2022, , the 19-member OAE Council is an
+        advisory body to the Ministry of Culture, Community and Youth (MCCY)
+      key_highlights:
+        - title: Highlight 1
+          description: Key Highlight description
+          url: ""
+        - title: Highlight 2
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Welcome to the OAE Council Singapore website
       description: Explore our site for empowering resources and programs. Embrace
