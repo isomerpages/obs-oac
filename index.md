@@ -15,12 +15,19 @@ sections:
         reliable resources and latest happenings in the OAE landscape.
   - infopic:
       title: The OAE Council
-      subtitle: Add an image and text
+      subtitle: Inaugural OAE advisory body
       id: infopic
       description: Established in September 2021, the 19-member OAE Council is an
         advisory body to the Ministry of Culture, Community and Youth (MCCY).
       button: Read More
       url: /about us
       image: /images/noec 2022 - group informal.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
