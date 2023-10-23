@@ -32,5 +32,5 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/newspaper.jpg
-      url: https://www.open.gov.sg/news
+      url: https://cms.isomer.gov.sg/sites/obs-oac/folders/news
 ---
