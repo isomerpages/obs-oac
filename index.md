@@ -20,7 +20,7 @@ sections:
       description: Established in September 2021, the 19-member OAE Council is an
         advisory body to the Ministry of Culture, Community and Youth (MCCY).
       button: Read More
-      url: https://www.open.gov.sg/about-us
+      url: https://cms.isomer.gov.sg/sites/obs-oac/folders/about-us
       image: /images/noec 2022 - group informal.jpg
       alt: Image alt text
   - infopic:
