@@ -16,5 +16,5 @@ The OAE Council is an advisory body comprising government agencies, private sect
 
 |Dr. Tan Lai Yong, Adjunct Associate Professor, College of Alice & Peter Tan, National University of Singapore (Private) | Mr David Chua, Chief Executive of National Youth Council (Government) |
 | -------- | -------- |
-| ![](/images/dr%20tan.png)     | ![](/images/david%20chua.png)     |
+| ![](/images/dr%20tan.png)|![](/images/david%20chua.png)     |
 | Text     | Text     |
