@@ -18,6 +18,14 @@ Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member 
   
 \*Together with Enterprise Singapore and the Singapore Standards Council
 
+#### Long Term Development of the OAE Sector
+In addition to promoting the adoption of new national standards, the OAE Council will monitor incident rates and adoption rate of national standards, active participation numbers, currency of standards, number of certified OAE providers and non-compliance*.
+Further measures (regulatory or statutory) if necessary, will be recommended in updates to MCCY.
+
+*E.g., incident reporting, periodic safety reviews, regular certification assessments, etc.
+
+![](/images/long%20term.png)
+
 ## Why OAE is unique in Singapore’s context
 The number of students participating in OAE programmes and adventure pursuits is estimated at 218,000 annually under the National OAE Masterplan.
 
