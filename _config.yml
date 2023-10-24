@@ -6,15 +6,15 @@ colors:
   secondary-color: "#c17d42"
   media-colors:
     - title: media-color-one
-      color: "#89c8fc"
+      color: "#027fe3"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#e5db00"
     - title: media-color-four
-      color: "#00838f"
+      color: "#000000"
     - title: media-color-five
-      color: "#00838f"
+      color: "#e50303"
 description: An official OAE resource site managed by the OAE Council
 permalink: none
 baseurl: ""
