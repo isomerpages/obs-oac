@@ -1,0 +1,6 @@
+collections:
+  professional-development:
+    output: true
+    order:
+      - Courses.md
+      - Careers.md

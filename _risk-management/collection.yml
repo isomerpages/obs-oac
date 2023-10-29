@@ -1,0 +1,7 @@
+collections:
+  risk-management:
+    output: true
+    order:
+      - Good Practices.md
+      - Tools and Templates.md
+      - Case Studies.md

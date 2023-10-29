@@ -1,0 +1,8 @@
+collections:
+  news:
+    output: true
+    order:
+      - News Release.md
+      - Articles.md
+      - Initiatives.md
+      - Events.md

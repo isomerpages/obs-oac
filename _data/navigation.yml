@@ -1,0 +1,14 @@
+logo: /images/logo (testing).jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Newsroom
+    collection: news
+  - title: Risk Management
+    collection: risk-management
+  - title: Research
+    collection: research
+  - title: Professional Development
+    collection: professional-development
+  - title: Contact Us
+    url: /contact-us/
