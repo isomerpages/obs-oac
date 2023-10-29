@@ -35,23 +35,29 @@ sections:
       url: news/news
   - infopic:
       title: Risk Management
-      subtitle: Add an image and text
+      subtitle: Safe Experience
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Essential resources and tools for a comprehensive risk management
+      button: Explore
       alt: Image alt text
+      url: /risk management
+      image: /images/risk management.jpg
   - infopic:
       title: Research
-      subtitle: Add an image and text
+      subtitle: Evidence-based culture
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Local and global efforts of the community
+      button: What's new
       alt: Image alt text
+      url: /research
+      image: /images/research.jpg
   - infopic:
       title: Professional Development
-      subtitle: Add an image and text
+      subtitle: Growth opportunities
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Career pathways, skills framework and many more!
+      button: Let's grow
       alt: Image alt text
+      image: /images/professional development.jpg
+      url: /professional
 ---
