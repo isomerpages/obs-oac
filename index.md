@@ -33,4 +33,25 @@ sections:
       alt: Image alt text
       image: /images/newspaper.jpg
       url: news/news
+  - infopic:
+      title: Risk Management
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Research
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Professional Development
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
