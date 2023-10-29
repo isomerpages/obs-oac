@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Vision and Logo.md
       - Overview.md
+      - Vision and Logo.md
       - Structure.md
       - Council Members.md
       - Milestones.md
