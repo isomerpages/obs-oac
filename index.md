@@ -40,7 +40,7 @@ sections:
       description: Essential resources and tools for a comprehensive risk management
       button: Explore
       alt: Image alt text
-      url: Risk Management
+      url: risk-management/good-practices/
       image: /images/risk management.jpg
   - infopic:
       title: Research
