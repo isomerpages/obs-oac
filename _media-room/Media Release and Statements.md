@@ -6,7 +6,7 @@ description: ""
 ### Media Release
 | Date | Topic | Hyperlink |
 | -------- | -------- | -------- |
-|22 Sept 2022|OAE Council to uplift the OAE Sector|[Council to uplift OAE Sector](/files/m%20-%20oae%20council%20to%20uplift%20the%20oae%20sector.pdf)|
+| 22 Sept 2022 | OAE Council to uplift the OAE Sector |[Council to uplift OAE Sector](/files/m%20-%20oae%20council%20to%20uplift%20the%20oae%20sector.pdf)|
 
 
 
