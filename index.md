@@ -27,7 +27,7 @@ sections:
       title: Media Room
       subtitle: Archives and Updates
       id: infopic
-      description: Find out media releases, statements, and  happenings in the
+      description: Find out media releases, statements, and  latest happenings in the
         Singapore OAE landscape.
       button: Find out more
       alt: Image alt text
