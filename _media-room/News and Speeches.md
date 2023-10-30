@@ -3,18 +3,25 @@ title: News and Speeches
 permalink: /media-room/news/
 description: ""
 ---
-## Stay Updated with the Latest in the Outdoor Adventure Education Sector
+## Stay updated with the latest news in the OAE Sector
 
 
 ### 2023
-| Month | Headlines | Link |
+
+
+| Month | Headlines | Hyperlink |
 | -------- | -------- | -------- |
-| Text     | Schools resume height-based activities but at lower capacity, after two-year suspension     | [CNA: Resumption](https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221)     |
-|Feb|Height-based outdoor activities for schools to resume from Feb 2023 |[ST: Resumption](https://www.straitstimes.com/singapore/height-based-outdoor-activities-for-schools-to-resume-from-feb-2023)|
-|Text|Text|Text|
-|Text|Text|Text|
+| Feb     | Schools resume height-based activities but at lower capacity, after two-year suspension     | [CNA: Resumption](https://www.channelnewsasia.com/singapore/schools-resume-height-based-activities-lower-capacity-after-two-year-suspension-3246221)     |
+| Feb     | Height-based outdoor activities for schools to resume from Feb 2023     | [ST: Resumption](https://www.straitstimes.com/singapore/height-based-outdoor-activities-for-schools-to-resume-from-feb-2023)     |
 
 ### 2022
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
 | Month | Headlines | Link |
 | -------- | -------- | -------- |
 |Sept|New council formed to revamp Singapore's outdoor adventure educationsector|[CNA: OAEC](https://www.channelnewsasia.com/singapore/council-outdoor-adventure-education-safety-infrastructure-2955191)|
