@@ -40,7 +40,7 @@ sections:
       description: Essential resources and tools for a comprehensive risk management
       button: Explore
       alt: Image alt text
-      url: risk-management/good-practices/
+      url: risk-management/good/
       image: /images/risk management.jpg
   - infopic:
       title: Research
@@ -49,7 +49,7 @@ sections:
       description: Local and global efforts of the community
       button: What's new
       alt: Image alt text
-      url: research/advisory-report
+      url: research/advisory/
       image: /images/research.jpg
   - infopic:
       title: Professional Development
@@ -59,5 +59,5 @@ sections:
       button: Let's grow
       alt: Image alt text
       image: /images/professional development.jpg
-      url: Professional Development
+      url: courses/
 ---
