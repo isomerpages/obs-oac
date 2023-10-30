@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - News Release.md
-      - Articles.md
+      - Media Release and Statements.md
       - Initiatives.md
       - Events.md
