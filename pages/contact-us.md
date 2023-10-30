@@ -14,14 +14,18 @@ locations:
 contacts:
   - content:
       - phone: ""
+      - email: David_Chua@nyc.gov.sg
+      - other: ""
+    title: Co-chair's (David Chua) Email
+  - content:
+      - phone: ""
+      - email: Drtanlaiyong@nus.edu.sg
+      - other: ""
+    title: Co-chair's (Dr Tan) Email
+  - content:
+      - phone: ""
       - email: OAE_Council@mccy.gov.sg
       - other: This email is managed by the OAE Council Secretariat Team
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: David_Chua@nyc.gov.sg
-      - other: "If you wish to reach out to the Co-Chairs of the OAE Council, you may do
-          so via the following email addresses: "
-    title: Co-chairs Email Address
 feedback: ""
 ---
