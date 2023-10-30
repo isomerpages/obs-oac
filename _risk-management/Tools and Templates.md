@@ -3,4 +3,7 @@ title: Tools and Templates
 permalink: /risk-management/tools/
 description: ""
 ---
-## Grab Useful Resources to improve your Organsation's Operations
+### Useful resources to strengthen overall risk management
+
+[Under Construction]
+EAP will be here
