@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
-# **Mandate of the OAE Council**
+## Mandate of the OAE Council
 ![](/images/noec%202022%20-%20group%20informal.jpg)
 *Image taken during National OE Conference 2022.*
 
