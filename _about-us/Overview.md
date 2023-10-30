@@ -9,7 +9,7 @@ description: ""
 
 Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member OAE Council is an advisory body comprising government agencies, private sector providers, outdoor practitioners and relevant experts from academia, industrial safety and professional development.
 
-#### In its first 3-year term, the Council will:  
+## In its first 3-year term, the Council will:  
   
 1\. Establish and develop **national standards\*** for installation, operations, training and certification of all OAE activities;  
 2\. Develop **Sector Skills Framework** for the professional development of OAE practitioners;  
@@ -18,11 +18,10 @@ Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member 
   
 \*Together with Enterprise Singapore and the Singapore Standards Council
 
-#### Long Term Development of the OAE Sector
+## Long Term Development of the OAE Sector
 In addition to promoting the adoption of new national standards, the OAE Council will monitor incident rates and adoption rate of national standards, active participation numbers, currency of standards, number of certified OAE providers and non-compliance*.
 Further measures (regulatory or statutory) if necessary, will be recommended in updates to MCCY.
 
 *E.g., incident reporting, periodic safety reviews, regular certification assessments, etc.
 
 ![](/images/long%20term.png)
-
