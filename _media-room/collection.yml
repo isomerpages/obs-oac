@@ -1,5 +1,5 @@
 collections:
-  news:
+  media-room:
     output: true
     order:
       - News Release.md
