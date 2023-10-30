@@ -3,22 +3,16 @@ title: Media Release and Statements
 permalink: /media-room/statements/
 description: ""
 ---
-### 2023
-| Column 1 | Column 2 | Column 3 |
+### Media Release
+| Date | Topic | Hyperlink |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
 
 
-### 2022
-| Column 1 | Column 2 | Column 3 |
+### Statement
+| Date | Topic | Hyperlink |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| 28 Nov 2022|Convene taskforce to support resumption of height-based activities beyond schools|[Taskforce](/files/s%20-%20taskforce.pdf)|
 
-
-
-### Pre-2022
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
