@@ -2,8 +2,8 @@ logo: /images/logo (testing).jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Media room
-    collection: news
+  - title: Media Room
+    collection: media-room
   - title: Risk Management
     collection: risk-management
   - title: Research
