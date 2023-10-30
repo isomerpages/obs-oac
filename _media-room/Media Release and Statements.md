@@ -15,7 +15,3 @@ description: ""
 | -------- | -------- | -------- |
 | 28 Nov 022     | Convened taskforce to support resumption of height-based activities beyond schools     | [Taskforce](/files/s%20-%20taskforce.pdf)     |
 
-
-| Date | Topic | Hyperlink |
-| -------- | -------- | -------- |
-| 28 Nov 2022|||
