@@ -2,5 +2,6 @@ collections:
   professional-development:
     output: true
     order:
+      - Frameworks and Pathways.md
       - Continuous Education.md
       - Careers.md
