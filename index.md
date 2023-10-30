@@ -24,7 +24,7 @@ sections:
       image: /images/noec 2022 - group informal.jpg
       alt: Image alt text
   - infopic:
-      title: Newsroom
+      title: Media Room
       subtitle: Archives and Updates
       id: infopic
       description: Find out media releases, statements, and  happenings in the
