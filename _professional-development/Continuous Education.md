@@ -24,6 +24,3 @@ List of technical certification
 List of organisational, instructional and facilitation opportunities
 ### Recommended Books 
 List of books on OE
-
-
-
