@@ -32,7 +32,7 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/newspaper.jpg
-      url: news/news
+      url: media-room/news/
   - infopic:
       title: Risk Management
       subtitle: Safe Experience
