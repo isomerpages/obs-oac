@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
-## Mandate of the OAE Council
+# Mandate of the OAE Council
 ![](/images/noec%202022%20-%20group%20informal.jpg)
 *Image taken during National OE Conference 2022.*
 
@@ -19,9 +19,9 @@ Reporting to the Ministry of Culture, Community and Youth (MCCY), the 19-member 
 \*Together with Enterprise Singapore and the Singapore Standards Council
 
 ## Long Term Development of the OAE Sector
+![](/images/long%20term.png)
 In addition to promoting the adoption of new national standards, the OAE Council will monitor incident rates and adoption rate of national standards, active participation numbers, currency of standards, number of certified OAE providers and non-compliance*.
 Further measures (regulatory or statutory) if necessary, will be recommended in updates to MCCY.
 
 *E.g., incident reporting, periodic safety reviews, regular certification assessments, etc.
 
-![](/images/long%20term.png)
