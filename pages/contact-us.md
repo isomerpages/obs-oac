@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Outdoor Adventure Education (OAE) Council
+agency_name: OAE Council
 locations:
   - address:
       - Blk 490 Lorong 6 Toa Payoh
