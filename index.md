@@ -34,14 +34,14 @@ sections:
       image: /images/newspaper.jpg
       url: news/news
   - infopic:
-      title: Professional Development
-      subtitle: Growth opportunities
+      title: Risk Management
+      subtitle: Safe Experience
       id: infopic
-      description: Career pathways, skills framework and many more!
-      button: Let's grow
+      description: Essential resources and tools for a comprehensive risk management
+      button: Explore
       alt: Image alt text
-      image: /images/professional development.jpg
-      url: Professional Development
+      url: Risk Management
+      image: /images/risk management.jpg
   - infopic:
       title: Research
       subtitle: Evidence-based culture
@@ -52,12 +52,12 @@ sections:
       url: research/advisory-report
       image: /images/research.jpg
   - infopic:
-      title: Risk Management
-      subtitle: Safe Experience
+      title: Professional Development
+      subtitle: Growth opportunities
       id: infopic
-      description: Essential resources and tools for a comprehensive risk management
-      button: Explore
+      description: Career pathways, skills framework and many more!
+      button: Let's grow
       alt: Image alt text
-      url: Risk Management
-      image: /images/risk management.jpg
+      image: /images/professional development.jpg
+      url: Professional Development
 ---
