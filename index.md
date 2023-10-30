@@ -59,5 +59,5 @@ sections:
       button: Let's grow
       alt: Image alt text
       image: /images/professional development.jpg
-      url: courses/
+      url: frameworks/
 ---
