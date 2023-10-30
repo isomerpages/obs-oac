@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - OAE in Singapore.md
       - Overview.md
       - Vision and Logo.md
       - Structure.md
