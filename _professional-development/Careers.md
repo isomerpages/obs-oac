@@ -3,7 +3,7 @@ title: Careers
 permalink: /careers/
 description: ""
 ---
-## What is being an instructor all about?
+## What is being an Outdoor Adventure Educator all about?
 
 #### OAE Private Providers
 Under Construction
