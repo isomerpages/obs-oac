@@ -15,6 +15,13 @@ contacts:
   - content:
       - phone: ""
       - email: OAE_Council@mccy.gov.sg
-      - other: ""
+      - other: This email is managed by the OAE Council Secretariat Team
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: David_Chua@nyc.gov.sg
+      - other: "If you wish to reach out to the Co-Chairs of the OAE Council, you may do
+          so via the following email addresses: "
+    title: Co-chairs Email Address
+feedback: ""
 ---
