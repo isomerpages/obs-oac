@@ -18,7 +18,7 @@ description: ""
 | Month | Headlines | Link |
 | -------- | -------- | -------- |
 |Sept|New council formed to revamp Singapore's outdoor adventure educationsector|[CNA: OAEC](https://www.channelnewsasia.com/singapore/council-outdoor-adventure-education-safety-infrastructure-2955191)|
-|Sept|Opening Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the National Outdoor Education Conference 2022|||
+|Sept|Opening Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the National Outdoor Education Conference 2022|[MCCY: Opening Speech NOAC 2022](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/nov/national-outdoor-education-conference-2022-on-22-september-2022)|
 
 ### Pre-2022
 | Month | Headlines | Link |
