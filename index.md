@@ -49,7 +49,7 @@ sections:
       description: Local and global efforts of the community
       button: What's new
       alt: Image alt text
-      url: research
+      url: research/advisory-report
       image: /images/research.jpg
   - infopic:
       title: Risk Management
@@ -58,6 +58,6 @@ sections:
       description: Essential resources and tools for a comprehensive risk management
       button: Explore
       alt: Image alt text
-      url: risk-management
+      url: Risk Management
       image: /images/risk management.jpg
 ---
