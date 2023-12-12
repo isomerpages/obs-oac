@@ -2,6 +2,7 @@
 title: Careers
 permalink: /careers/
 description: ""
+variant: markdown
 ---
 ## What is being an Outdoor Adventure Educator all about?
 
@@ -14,10 +15,10 @@ Under Construction
 #### Outward Bound Singapore
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xOPlalbQ_UE?si=kv98WLs0u3E9ETag" height="315" width="560"></iframe>
 
-## Interested to be Part of the Industry?
+### Interested to be part of the OAE Industry?
 	
 | Organisation | Hyperlink |
 | -------- | -------- |
 | MINISTRY OF EDUCATION (MOE) | https://www.moe.gov.sg/careers/non-teaching-careers/outdoor-adventure-educator | 
 |OUTWARD BOUND SINGAPORE (OBS) | https://www.nyc.gov.sg/en/obs/career |
-| OUTDOOR LEARNING &amp; ADVENTURE EDUCATION (OLAE) | https://www.olae.sg/our-members | <p></p>
+| OUTDOOR LEARNING &amp; ADVENTURE EDUCATION (OLAE) | https://www.olae.sg/our-members |
