@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Objectives and Findings of Study</p><p>Can insert Images and tables</p><p></p>
