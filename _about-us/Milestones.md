@@ -13,8 +13,8 @@ variant: markdown
  
 ### **Workstream: Professional Development**
 ##### *Professional Development Research Study*
-* **Target Sept 2024** - Completes research
-* **Target Mar 2024** - Commences research
+* **Target Sept 2024** - Completes Research
+* **Target Mar 2024** - Commences Research
 * **Target Mar 2024** - Award Contract
 * **Feb 2024** - Procurement Preparation
 
@@ -30,6 +30,7 @@ Aggregated data on demographics, programmes, participants and incidents.
 Concept Stage
 
 ##### *Tools and Templates*
+* **Upcoming**: TBC 
 * **December 2023**: Developed 'Emergency Action Plan (EAP) Best Practices' document for OAE providers
 
 ### **Engagement Events**
