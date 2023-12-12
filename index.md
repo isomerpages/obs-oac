@@ -34,24 +34,6 @@ sections:
       image: /images/newspaper.jpg
       url: media-room/news/
   - infopic:
-      title: Risk Management
-      subtitle: Safe Experience
-      id: infopic
-      description: Essential resources and tools for a comprehensive risk management
-      button: Explore
-      alt: Image alt text
-      url: risk-management/good/
-      image: /images/risk management.jpg
-  - infopic:
-      title: Research
-      subtitle: Evidence-based culture
-      id: infopic
-      description: Local and global efforts of the community
-      button: What's new
-      alt: Image alt text
-      url: research/advisory/
-      image: /images/research.jpg
-  - infopic:
       title: Professional Development
       subtitle: Growth opportunities
       id: infopic
@@ -62,7 +44,6 @@ sections:
       url: /professional-development/framework/
   - resources:
       title: Resources
-      subtitle: ""
       id: resources
       button: List all resources
 ---
