@@ -2,6 +2,7 @@
 title: Council Members
 permalink: /about-us/members/
 description: ""
+variant: markdown
 ---
 ## Diverse Membership
 ![](/images/oae%20council%20diverse%20membership1.jpg)
@@ -10,7 +11,7 @@ The OAE Council is an advisory body comprising government agencies, private sect
 
 ***Updates***:
 * 28 July 2023 - Mohamed Sayadi was appointed as the 19th&nbsp;OAE Council Member in the ex-officio capacity as MOE Deputy Director of Physical, Sports and Outdoor Education Branch.
-* xx Oct 2023 - Eddie Foo was appointed to replace Ms Delphine Fong due to retirement.
+* 9 Nov 2023 - Eddie Foo was appointed to replace Ms Delphine Fong due to retirement.
 
 ## Co-Chairs
 
