@@ -60,4 +60,9 @@ sections:
       alt: Image alt text
       image: /images/professional development.jpg
       url: /professional-development/framework/
+  - resources:
+      title: Resources
+      subtitle: ""
+      id: resources
+      button: List all resources
 ---
