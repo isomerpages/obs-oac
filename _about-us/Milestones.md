@@ -9,12 +9,14 @@ variant: markdown
 
 #### Workstream: Professional Development
 ##### *Professional Development Research Study*
-
+* No bidders for September 2023 launch
+* Preparation for 
 #### Workstream: Safety, Compliance and Promotion
 ##### *Sectorial Data Collection*
-
+Aggregated data on activities, programmes, participants and incidents.
+* Phase 1 - rolled out to 6 respondents 
 ##### *Incident Reporting and Near Misses*
-Conceptualisation Stage
+Concept Stage
 
 #### Engagement Events
 * **Upcoming**: TBC 
