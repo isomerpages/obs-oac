@@ -8,3 +8,5 @@ links:
     collection: professional-development
   - title: Contact Us
     url: /contact-us/
+  - title: Resources
+    resource_room: true
