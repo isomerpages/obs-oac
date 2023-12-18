@@ -29,5 +29,8 @@ List of technical certification
 ### Soft Skills
 List of organisational, instructional and facilitation opportunities
 
+### Meta Skills
+Development in areas of ethics, communications, leadership styles, problem solving, decision making, sound judgement 
+
 ### Recommended Readings 
 List of books on OE
