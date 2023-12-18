@@ -12,7 +12,7 @@ The MOE Outdoor Adventure Learning Centres (OALCs) and Outward Bound Singapore s
 They also support other thousands of youths and adults who engage in recreational adventure activities like hiking, rock climbing, kayaking and ropes courses.
 
 ## National OAE Masterplan
-![](/images/NOAE_Masterplan.png)
+)![](/images/NOAE_MP.png)
 The National OAE Masterplan was announced during Budget and COS 2016 to promote holistic development for all youths through a OAE pathway from primary to post-secondary school level. All primary and secondary school students are equipped with outdoor living skills, knowledge and attitude through the OE in Physical Education (PE) Curriculum introduced in 2014. They are provided with authentic outdoor environments through 2 to 3 school cohort camps at upper primary and secondary levels.
 
 The Masterplan was put on hold over most of 2020-2021 due to Covid-19. The lifting of vaccination differentiated measures after 1Q 2022 has allowed schools to progressively resume cohort camps and other OAE activities.
