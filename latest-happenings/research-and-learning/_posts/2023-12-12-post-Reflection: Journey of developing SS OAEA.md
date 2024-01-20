@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>This is a sample.</p><p>It could be use as a post. perhaps reflections of SS WG / Co-conveners reflection on the Journey.</p>
+<p>Conducted during National OE Conference 2022, views were sought from approximately 250 community members through World Café methodology on 4 key areas: Safety &amp; Quality Standards of Practice, Professional Development, Safety &amp; Compliance and Sector Governance.</p><h4>The World Café data confirms OAE Council's direction.</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/worldcafe.png"></div><p></p>
