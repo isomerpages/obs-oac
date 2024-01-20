@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - OAE Council/Council's Plans.md
-      - OAE Council/Representation.md
       - OAE Council/.keep
+      - OAE Council/Representation.md
+      - OAE Council/Council's Plans.md
       - Overview.md
       - OAE in Singapore.md
       - Milestones.md
