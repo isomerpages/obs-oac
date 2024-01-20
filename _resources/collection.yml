@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Research & Learning/Case Studies.md
       - Research & Learning/Articles and Publications.md
       - Research & Learning/.keep
       - Standards & Guidelines/.keep
