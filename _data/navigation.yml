@@ -6,7 +6,7 @@ links:
     collection: media-room
   - title: Resources
     collection: resources
-  - title: Resources
+  - title: Latest Happenings
     resource_room: true
   - title: Contact Us
     url: /contact-us/
