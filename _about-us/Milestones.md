@@ -2,37 +2,6 @@
 title: Milestones
 permalink: /about-us/milestones/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Workstream: Standards and Certification**
-##### *Singapore Standards for Outdoor Adventure Education Activities (SS OAEA)*
-* **Target Sept 2024** - Publication
-* **Target July 2024** - Standards Committee's Approval
-* **Target Apr 2024** - Technical Committee's Approval and Public Comments
-* **Target Mar 2024** - Working Group's Approval
- 
-### **Workstream: Professional Development**
-##### *Professional Development Research Study*
-* **Target Sept 2024** - Completes Research
-* **Target Mar 2024** - Commences Research
-* **Target Mar 2024** - Award Contract
-* **Feb 2024** - Procurement Preparation
-
-There were no bidders from the last procurement exercise on Nov 2023.
-### **Workstream: Safety, Compliance and Promotion**
-##### *Sectorial Data Collection*
-Aggregated data on demographics, programmes, participants and incidents.
-* **Target April 2025** - Roll out Phase 3. Data extends to more respondents and datafields.
-* **Target April 2024** - Roll out Phase 2. Data extends to more respondents and datafields, including overseas expeditions / camps and more respondents
-* **November 2023** - Rolled out to 6 respondents for Phase 1, focusing on cohort camps and MOE challenge programmes.
-
-##### *Incident Reporting and Near Misses*
-Concept Stage
-
-##### *Tools and Templates*
-* **Upcoming**: TBC 
-* **December 2023**: Developed 'Emergency Action Plan (EAP) Best Practices' document for OAE providers
-
-### **Engagement Events**
-* **Upcoming**: TBC 
-* **2 November 2023 @ Republic Polytechnic**: Stakeholders engagement to inform on OAE Council's priorities, long-term outcomes and workstreams progress.
+<h3><strong>Workstream: Standards and Certification</strong></h3><h5><em>Singapore Standards for Outdoor Adventure Education Activities (SS OAEA)</em></h5><ul data-tight="true" class="tight"><li><p><strong>Target Sept 2024</strong> - Publication</p></li><li><p><strong>Target July 2024</strong> - Standards Committee's Approval</p></li><li><p><strong>Target Apr 2024</strong> - Technical Committee's Approval and Public Comments</p></li><li><p><strong>Target Mar 2024</strong> - Working Group's Approval</p></li></ul><h3><strong>Workstream: Professional Development</strong></h3><h5><em>Professional Development Research Study</em></h5><ul data-tight="true" class="tight"><li><p><strong>Target Sept 2024</strong> - Completes Research</p></li><li><p><strong>Target Mar 2024</strong> - Commences Research</p></li><li><p><strong>Target Mar 2024</strong> - Award Contract</p></li><li><p><strong>Feb 2024</strong> - Procurement Preparation</p></li></ul><p>There were no bidders from the last procurement exercise on Nov 2023.</p><h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3><h5><em>Sectorial Data Collection</em></h5><p>Aggregated data on demographics, programmes, participants and incidents.</p><ul data-tight="true" class="tight"><li><p><strong>Target April 2025</strong> - Roll out Phase 3. Data extends to more respondents and datafields.</p></li><li><p><strong>Target April 2024</strong> - Roll out Phase 2. Data extends to more respondents and datafields, including overseas expeditions / camps and more respondents</p></li><li><p><strong>November 2023</strong> - Rolled out to 6 respondents for Phase 1, focusing on cohort camps and MOE challenge programmes.</p></li></ul><h5><em>Incident Reporting and Near Misses</em></h5><p>Concept Stage</p><h5><em>Tools and Templates</em></h5><ul data-tight="true" class="tight"><li><p><strong>Upcoming</strong>: TBC</p></li><li><p><strong>December 2023</strong>: Developed 'Emergency Action Plan (EAP) Best Practices' document for OAE providers</p></li></ul><h3><strong>Engagement Events</strong></h3><ul data-tight="true" class="tight"><li><p><strong>Upcoming</strong>: TBC</p></li><li><p><strong>2 November 2023 @ Republic Polytechnic</strong>: Stakeholders engagement to inform on OAE Council's priorities, long-term outcomes and workstreams progress.</p></li></ul><p></p>
