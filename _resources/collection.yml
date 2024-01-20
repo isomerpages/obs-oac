@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - Singapore Standards/Singapore Standards.md
-      - Singapore Standards/.keep
+      - Standards and Guidelines/Singapore Standards.md
+      - Standards and Guidelines/.keep
       - Council's Advisories & Guidelines.md
       - Research & Learning.md
       - Accreditation & Adoption.md
