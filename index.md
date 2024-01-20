@@ -17,10 +17,10 @@ sections:
           description: OAE in SG & the OAE Council
           url: about/overview/
         - title: Media Room
-          description: News, media release & events
+          description: Archived Updates
           url: /media-room/news/
         - title: Resources
-          description: Info, knowledge & tools
+          description: Information & Tools
           url: /resources/singapore-standards/
   - resources:
       title: Latest Happenings
