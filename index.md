@@ -14,8 +14,8 @@ sections:
       variant: image
       key_highlights:
         - title: About
-          description: OE in SG & the OAE Council
-          url: about-us/overview/
+          description: OAE in SG & the OAE Council
+          url: about/overview/
         - title: Media Room
           description: News, media release & events
           url: ""
@@ -30,9 +30,9 @@ sections:
       title: About
       subtitle: Outdoor Education in Singapore
       id: infopic
-      description: "If you are looking for information about Outdoor Education in
+      description: If you are looking for information about Outdoor Education in
         Singapore and the inaugural Outdoor Adventure Education (OAE) Council,
-        this page has it all. "
+        this page has it all.
       button: Read More
       url: about-us/overview/
       image: /images/noec 2022 - group informal.jpg
