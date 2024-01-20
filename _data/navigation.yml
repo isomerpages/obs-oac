@@ -1,7 +1,7 @@
 logo: /images/logo (testing).jpg
 links:
-  - title: About Us
-    collection: about-us
+  - title: About
+    collection: about
   - title: Media Room
     collection: media-room
   - title: Resources
