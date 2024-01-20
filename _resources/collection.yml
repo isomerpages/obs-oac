@@ -1,5 +1,5 @@
 collections:
-  professional-development:
+  resources:
     output: true
     order:
       - Frameworks and Pathways.md
