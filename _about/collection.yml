@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - OAE Professionals/OAE in Singapore.md
-      - OAE Professionals/.keep
+      - OAE In Singapore/OAE in Singapore.md
+      - OAE In Singapore/.keep
       - Overview.md
       - OAE Council/.keep
       - OAE Council/Representation.md
