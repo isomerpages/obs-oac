@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - News & Speeches.md
-      - Media Release and Statements.md
+      - Media Release & Statements.md
       - Events and Engagements.md
