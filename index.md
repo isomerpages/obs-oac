@@ -18,10 +18,10 @@ sections:
           url: about/overview/
         - title: Media Room
           description: News, media release & events
-          url: ""
+          url: /media-room/news/
         - title: Resources
           description: Info, knowledge & tools
-          url: ""
+          url: /resources/singapore-standards/
   - resources:
       title: Latest Happenings
       id: resources
