@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Accreditation & Adoption.md
       - Singapore Standards.md
       - Council's Advisories & Guidelines.md
       - Research & Learning.md
+      - Accreditation & Adoption.md
