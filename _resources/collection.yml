@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Advisories and Best Practices/.keep
       - Standards and Guidelines/Singapore Standards.md
       - Standards and Guidelines/.keep
       - Council's Advisories & Guidelines.md
