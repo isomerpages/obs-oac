@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Media Room
     collection: media-room
-  - title: Professional Development
-    collection: professional-development
+  - title: Resources
+    collection: resources
   - title: Resources
     resource_room: true
   - title: Contact Us
