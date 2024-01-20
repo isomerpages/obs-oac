@@ -2,6 +2,6 @@ collections:
   media-room:
     output: true
     order:
-      - News and Speeches.md
+      - News & Speeches.md
       - Media Release and Statements.md
       - Events and Engagements.md
