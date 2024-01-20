@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Research & Learning/Research & Learning.md
+      - Research & Learning/Articles and Publications.md
       - Research & Learning/.keep
       - Standards & Guidelines/.keep
       - Standards & Guidelines/Singapore Standards.md
