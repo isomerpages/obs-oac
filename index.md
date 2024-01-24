@@ -25,5 +25,5 @@ sections:
   - resources:
       title: Latest Happenings
       id: resources
-      button: List all resources
+      button: What else is happening?
 ---
