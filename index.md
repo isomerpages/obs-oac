@@ -14,13 +14,13 @@ sections:
       variant: image
       key_highlights:
         - title: About
-          description: OAE in SG & the OAE Council
+          description: Understand OAE & the Council
           url: about/overview/
         - title: Media Room
-          description: Archived Updates
+          description: Read Archived Updates
           url: /media-room/news/
         - title: Resources
-          description: Information & Tools
+          description: Find Information & Tools
           url: /resources/singapore-standards/
   - resources:
       title: Latest Happenings
