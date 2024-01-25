@@ -1,0 +1,12 @@
+logo: /images/logo_placeholder.png
+links:
+  - title: About
+    collection: about
+  - title: Media Room
+    collection: media-room
+  - title: Resources
+    collection: resources
+  - title: Latest Happenings
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
