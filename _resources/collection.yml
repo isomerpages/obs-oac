@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
-      - Standards & Guidelines/.keep
-      - Standards & Guidelines/Singapore Standards.md
-      - Standards & Guidelines/Advisories & Best Practices.md
+      - Accreditation & Adoption.md
+      - Professional Development.md
       - Research & Learning/.keep
       - Research & Learning/Council's Findings & Research.md
       - Research & Learning/Case Studies.md
       - Research & Learning/Articles & Publications.md
-      - Professional Development.md
-      - Accreditation & Adoption.md
+      - Standards & Guidelines/.keep
+      - Standards & Guidelines/Singapore Standards.md
+      - Standards & Guidelines/Advisories & Best Practices.md
