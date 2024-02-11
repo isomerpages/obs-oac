@@ -20,13 +20,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jan 2024</p>
+<p>26 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>OAE Council reiterated the National Standards in view of the attention
+to volunteer instructor in SAFRA Yishun incident</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="https://www.channelnewsasia.com/singapore/volunteer-instructor-camelot-student-death-outdoor-rope-course-4073151" rel="noopener noreferrer nofollow" target="_blank">OAE Council: National Standards in the pipeline</a>
+</p>
 </td>
 </tr>
 <tr>
