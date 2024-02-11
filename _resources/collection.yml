@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Accreditation & Adoption.md
+      - Accreditation.md
       - Professional Development.md
       - Research & Learning/.keep
       - Research & Learning/Council's Findings & Research.md
