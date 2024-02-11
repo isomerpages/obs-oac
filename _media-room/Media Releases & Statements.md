@@ -93,7 +93,7 @@ from February 2023</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.straitstimes.com/opinion/forum/forum-outdoor-adventure-education-methods-and-processes-continually-reviewed-to-ensure-safety" rel="noopener noreferrer nofollow" target="_blank">OAE methods and processes continually reviewed to ensure safety</a>
+<p><a href="https://www.straitstimes.com/opinion/forum/forum-outdoor-adventure-education-methods-and-processes-continually-reviewed-to-ensure-safety" rel="noopener noreferrer nofollow" target="_blank">OAE Council: OAE methods and processes continually reviewed to ensure safety</a>
 </p>
 </td>
 </tr>
