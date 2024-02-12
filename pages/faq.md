@@ -19,7 +19,7 @@ the OAE Council at&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofol
 Abu Bakar.
 <br>If you wish to reach out to the Co-Chairs of the OAE Council, you may
 do so via the following email addresses:
-<br><strong>David Chua</strong>:&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">David_Chua@nyc.gov.sg</a></strong>
+<br><strong>David Chua</strong>:&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">David_Chua@nyc.gov.sg</a></strong> 
 <br><strong>Dr. Tan Lai Yong</strong>:&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Drtanlaiyong@nus.edu.sg</a></strong>
 </p>
 <h5>5. I have a case study to contribute. How can I do so?</h5>
