@@ -11,7 +11,7 @@ sections:
       background: /images/2022 obs outdoor education conference - 0184.jpg
       subtitle: An official site developed by the OAE Council Singapore to provide
         reliable resources and latest happenings in the OAE landscape.
-      variant: image
+      variant: floating
       key_highlights:
         - title: About
           description: Understand OAE & the Council
