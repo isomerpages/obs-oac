@@ -8,10 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/outdoor_leadership_wall.jpeg">
 </div>
-<p>Developed by Dr. Simon Priest, the <strong>outdoor leadership wall</strong> was
-an idea that stemmed from his 1983 master thesis on outdoor leadership.
-40 years later, the wall is still relevant, even in business leadership</p>
-<p>For more information, please visit his <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p>Developed by <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Simon Priest</a>,
+the <strong>outdoor leadership wall</strong> was an idea that stemmed from
+his 1983 master thesis on outdoor leadership. It is a commonly adopted
+skills framework for Outdoor Leaders.</p>
 <h3>Formal Education</h3>
 <p>These courses, non-exhaustive, range from 1 year to 4 years. It provides
 both theoretical knowledge and practical skills to prepare learners for
