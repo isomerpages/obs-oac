@@ -1,4 +1,4 @@
-title: Outdoor Adventure Education (OAE) Council Singapore
+title: Singapore Outdoor Adventure Education (OAE)
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#e3b448"
     - title: media-color-five
       color: "#c68ca4"
-description: An official OAE resource site managed by the OAE Council
+description: An official site developed by the OAE Council Singapore to provide
+  reliable resources and latest happenings in the OAE landscape.
 permalink: none
 baseurl: ""
 exclude:
