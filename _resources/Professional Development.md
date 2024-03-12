@@ -85,7 +85,7 @@ in the OAE sector.</p>
 <hr>
 <h3>Hard Skills (Technical)</h3>
 <p>The administration of outdoor technical skills such as climbing, kayaking,
-and sailing is overseen by our <a href="https://www.activesgcircle.gov.sg/find-a-national-sports-association" rel="noopener noreferrer nofollow" target="_blank">National Sports Associations (NSAs)</a>.
+and dragonboating is overseen by our <a href="https://www.activesgcircle.gov.sg/find-a-national-sports-association" rel="noopener noreferrer nofollow" target="_blank">National Sports Associations (NSAs)</a>.
 These NSAs are responsible for ensuring the development and promotion of
 these activities in a safe and inclusive manner. If you are interested
 in acquiring or improving your skills in any of these areas, we encourage
