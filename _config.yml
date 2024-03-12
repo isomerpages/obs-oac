@@ -2,11 +2,11 @@ title: Singapore Outdoor Adventure Education (OAE)
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3a6b35"
+  primary-color: "#4d6975"
   secondary-color: "#000000"
   media-colors:
     - title: media-color-one
-      color: "#a0c3d2"
+      color: "#a3bfb7"
     - title: media-color-two
       color: "#d56163"
     - title: media-color-three
