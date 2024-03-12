@@ -4,10 +4,10 @@ collections:
     order:
       - Accreditation.md
       - Professional Development.md
-      - Research & Learning/.keep
-      - Research & Learning/Council's Findings & Research.md
-      - Research & Learning/Case Studies.md
-      - Research & Learning/Articles & Publications.md
+      - Learning Hub/.keep
+      - Learning Hub/Council's Findings & Research.md
+      - Learning Hub/Case Studies.md
+      - Learning Hub/Articles & Publications.md
       - Standards & Guidelines/.keep
       - Standards & Guidelines/Singapore Standards.md
       - Standards & Guidelines/Advisories & Best Practices.md
