@@ -25,7 +25,7 @@ Comments</p>
 <h5><em><u>Professional Development Research Study</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Target Octorber 2024</strong> - Completes Research</p>
+<p><strong>Target October 2024</strong> - Completes Research</p>
 </li>
 <li>
 <p><strong>Target May 2024</strong> - Commences Research</p>
@@ -38,6 +38,8 @@ Comments</p>
 </li>
 </ul>
 <p>There were no bidders from the last procurement exercise in Nov 2023.</p>
+<p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page</a>
+</p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <h5><em><u>Sectorial Data Collection</u></em></h5>
 <p>Aggregated data on demographics, programmes, participants and incidents.</p>
