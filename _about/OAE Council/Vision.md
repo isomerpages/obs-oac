@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: OAE Council
 ---
-<h3>Vision for our OAE Sector</h3>
+<h3><strong>Vision for our OAE Sector</strong></h3>
 <p>The OAE Council has identified two long-term outcomes for the OAE Sector:</p>
 <ol data-tight="true" class="tight">
 <li>
