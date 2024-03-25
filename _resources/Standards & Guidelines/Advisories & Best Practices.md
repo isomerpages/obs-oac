@@ -21,13 +21,13 @@ third_nav_title: Standards & Guidelines
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Mar 2024</p>
+<p>28 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Seasonal Heat Stress Management Advisory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Seasonal_Heat_Stress_Management_Advisory_Mar_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Seasonal Heat Stress Management</a>
+<p><a href="/files/Seasonal_Heat_Stress_Management_Advisory_Mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Seasonal Heat Stress Management</a>
 </p>
 </td>
 </tr>
