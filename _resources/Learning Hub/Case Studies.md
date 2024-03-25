@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Hub
 ---
-<h4><strong>Welcome to the OAE Sector's Case Study Archive!</strong></h4>
+<h3><strong>Welcome to the OAE Sector's Case Study Archive!</strong></h3>
 <p>Your experiences matter, and your insights can make a real difference.
 By sharing your stories, you contribute to a safer and more responsible
 outdoor adventure education community.</p>
