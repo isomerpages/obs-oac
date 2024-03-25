@@ -12,6 +12,7 @@ Learning Centres and Outward Bound Singapore support 90,000 students through
 various camps and programmes. About 40 commercial OAE providers support
 an additional 128,000 students. They also cater to numerous youths and
 adults engaged in recreational adventure activities.</p>
+<hr>
 <h3>National OAE Masterplan</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NOAE_MP.png">
