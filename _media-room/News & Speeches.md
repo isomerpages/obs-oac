@@ -4,7 +4,8 @@ permalink: /media-room/news/
 description: ""
 variant: tiptap
 ---
-<h3>2024</h3>
+<h3><strong>Notable Media Events and Official Speeches</strong></h3>
+<h4>2024</h4>
 <table>
 <tbody>
 <tr>
@@ -85,7 +86,7 @@ at Safra Yishun in 2021</p>
 </tr>
 </tbody>
 </table>
-<h3>2023</h3>
+<h4>2023</h4>
 <table>
 <tbody>
 <tr>
@@ -152,7 +153,7 @@ suspension</p>
 </tr>
 </tbody>
 </table>
-<h3>2022</h3>
+<h4>2022</h4>
 <table>
 <tbody>
 <tr>
