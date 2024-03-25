@@ -88,6 +88,32 @@ at Safra Yishun in 2021</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Call for safety measures, changes to floating barrier after fatal kayak
+accident off Sentosa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/https://www.channelnewsasia.com/singapore/kayak-accident-sentosa-floating-sea-blue-barrier-safety-3882881" rel="noopener noreferrer nofollow" target="_blank">CNA: Safety measures, floating barriers off Sentosa</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Two Singaporeans die in South Africa after canoes capsize in Crocodile
+River</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/singapore/two-singapore-tourists-die-canoe-south-africa-crocodile-river-drown-3574351" rel="noopener noreferrer nofollow" target="_blank">CNA: Two Singaporeans die in South Africa after canoes capsize</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Feb</p>
 </td>
 <td rowspan="1" colspan="1">
