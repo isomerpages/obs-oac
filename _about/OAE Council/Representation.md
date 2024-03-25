@@ -23,6 +23,7 @@ under the MOE-MCCY Steering Committee.</div>
 </div>
 </a>
 </div>
+<hr>
 <h3>The OAE Council: 1st Term Council Members</h3>
 <p>Reporting to the Ministry of Culture, Community and Youth (MCCY), the
 19-member OAE Council is an advisory body comprising government agencies,
@@ -44,6 +45,7 @@ Director of Physical, Sports and Outdoor Education Branch.</p>
 was appointed to replace Ms. Delphine Fong as SportSG's representative.</p>
 </li>
 </ul>
+<hr>
 <h4>Council Sub-Committees</h4>
 <p>The Council has organized the work into three distinct areas: <strong>Standards and Certification, Professional Development and Safety, and Compliance and Promotion.</strong> Each
 of these areas is led by co-leads who oversee the respective sub-committees,
