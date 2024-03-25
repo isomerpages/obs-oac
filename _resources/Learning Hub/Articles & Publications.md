@@ -9,7 +9,7 @@ third_nav_title: Learning Hub
 <p>From local insights to global findings, immerse yourself in the research
 shaping the OAE sector. Each publication holds the potential to inspire,
 inform, and expand your horizon in OAE developments, programming pedagogy
-and safety systems.</p>
+and safety system.</p>
 <p>Please contact us if you wish to suggest relevant articles.</p>
 <hr>
 <h4>OAE Developments</h4>
@@ -81,7 +81,7 @@ education online. <em>Journal of Adventure Education and Outdoor Learning</em>, 
 </tr>
 </tbody>
 </table>
-<h4>Safety Systems</h4>
+<h4>Safety System</h4>
 <table>
 <tbody>
 <tr>
