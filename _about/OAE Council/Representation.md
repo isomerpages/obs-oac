@@ -5,17 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: OAE Council
 ---
-<h3>The OAE Council</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/noec%202022%20-%20group%20informal.jpg">
-</div>
-<p><em>Image taken during National OE Conference 2022. Not in picture: Mr. Eddie Foo, Mr. Mohamed Sayadi Bin Mohamed Nor, Ms. Lim Leng Er, Mr. Zishan Amir and Mr. Lye Yen Kai.</em>
-</p>
-<p>Reporting to the Ministry of Culture, Community and Youth (MCCY), the
-19-member OAE Council is an advisory body comprising government agencies,
-private sector providers, outdoor practitioners and relevant experts from
-academia, industrial safety and professional development.</p>
-<h3>Council Co-Chairs</h3>
+<h3>The OAE Council: Co-Chairpersons</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rc4.nus.edu.sg/current-faculty/tan-lai-yong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Tan Lai Yong" src="/images/drtan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Co-chair (Private)</div><div class="isomer-card-description">Dr. Tan Lai Yong is an Adjunct Associate Professor with College of Alice &amp; Peter Tan, NUS. A medical doctor and community advocate, he chaired MOE's Advisory Panel for Outdoor Adventure Learning (OAL) from Feb 2016 to Feb 2019.</div><div class="isomer-card-link">More about Dr. Tan</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sg.linkedin.com/in/davidxchua" class="isomer-card">
 <div class="isomer-card-image">
@@ -33,13 +23,14 @@ under the MOE-MCCY Steering Committee.</div>
 </div>
 </a>
 </div>
-<h3>Council Members</h3>
+<h3>The OAE Council: 1st Term Council Members</h3>
+<p>Reporting to the Ministry of Culture, Community and Youth (MCCY), the
+19-member OAE Council is an advisory body comprising government agencies,
+private sector providers, outdoor practitioners and relevant experts from
+academia, industrial safety and professional development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/oae%20council%20diverse%20membership1.jpg">
 </div>
-<p>The OAE Council is an advisory body comprising government agencies, private
-sector providers, outdoor practitioners and relevant experts from academia,
-industrial safety and professional development.</p>
 <p><strong>Updates:</strong>
 </p>
 <ul data-tight="true" class="tight">
