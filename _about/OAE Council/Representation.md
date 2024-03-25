@@ -24,7 +24,7 @@ under the MOE-MCCY Steering Committee.</div>
 </a>
 </div>
 <hr>
-<h3>The OAE Council: 1st Term Council Members</h3>
+<h3>The OAE Council: 1<sup>st</sup> Term Council Members</h3>
 <p>Reporting to the Ministry of Culture, Community and Youth (MCCY), the
 19-member OAE Council is an advisory body comprising government agencies,
 private sector providers, outdoor practitioners and relevant experts from
@@ -37,8 +37,8 @@ academia, industrial safety and professional development.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>28 July 2023</u> - Mr. Mohamed Sayadi Bin Mohamed Nor was appointed
-as the 19th&nbsp;OAE Council Member in the ex-officio capacity as MOE Deputy
-Director of Physical, Sports and Outdoor Education Branch.</p>
+as the 19<sup>th</sup>&nbsp;OAE Council Member in the ex-officio capacity
+as MOE Deputy Director of Physical, Sports and Outdoor Education Branch.</p>
 </li>
 <li>
 <p><u>9 Nov 2023</u> - Mr. Eddie Foo, Deputy Director for ActiveSG North,
