@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Welcome</h3>
-<p>Welcome to the official Singapore Outdoor Adventure Education (OAE) website.
+<p>Welcome to the official <strong><u>Singapore Outdoor Adventure Education (OAE) website</u></strong>.
 Here, you will find detailed insights into the Council's plans, sector
 development and valuable resources. From national standards and professional
 development to safety compliance and sector promotion, our website offers
