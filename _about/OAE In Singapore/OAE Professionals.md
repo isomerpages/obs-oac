@@ -6,7 +6,7 @@ description: ""
 third_nav_title: OAE In Singapore
 ---
 <p>The role of an Outdoor Adventure Education (OAE) professional, particularly
-an educator, involves utilizing the outdoors as a platform for self-discovery
+an educator, involves utilising the outdoors as a platform for self-discovery
 and social awareness. They play a critical role in the holistic development
 of Singaporean youth. Through carefully designed activities, OAE professionals
 create a learning zone where students can engage in experiential learning,
