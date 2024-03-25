@@ -25,6 +25,7 @@ propose schemes, resources, pathways and other enabling structures to support
 growth and transformation of the sector.</p>
 </li>
 </ol>
+<hr>
 <h3>Long Term Development of the OAE Sector</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/long%20term.png">
