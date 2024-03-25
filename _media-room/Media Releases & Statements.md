@@ -20,6 +20,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>23 February 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Schools to Benefit from Increased Capacity at New Outdoor Adventure
+Learning Centres</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240223-all-schools-to-benefit-from-increased-capacity-at-new-outdoor-adventure-learning-centres" rel="noopener noreferrer nofollow" target="_blank">MOE: Consolidation of OAE Sites</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +116,7 @@ Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.
 <p>7 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Forum reply to Mr. Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities"</a>
+<p>Forum reply to Mr. Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities" (Feb 1)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
