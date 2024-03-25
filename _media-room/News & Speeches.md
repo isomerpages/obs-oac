@@ -20,6 +20,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After outdoor mishaps with schoolkids, instructors now required to go
+through detailed checklists</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/singapore/outdoor-instructors-checklists-schools-students-rope-course-flying-fox-4191296" rel="noopener noreferrer nofollow" target="_blank">CNA: Pre-use checklist made mandatory</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Feb</p>
 </td>
 <td rowspan="1" colspan="1">
