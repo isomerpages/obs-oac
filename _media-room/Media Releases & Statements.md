@@ -86,10 +86,24 @@ from February 2023</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forum reply to Ms. Prameela Devi Kaneson's Letter <a href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forum/forum-parents-need-safety-assurance-for-height-based-activities" rel="noopener noreferrer nofollow" target="_blank">“Parents need safety assurance for height-based activities” (March 1) </a>and
+Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forum/forum-address-systemic-safety-issues-instead-of-looking-for-a-fall-guy" rel="noopener noreferrer nofollow" target="_blank">“Address systemic safety issues instead of looking for a fall guy” (March 4).</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/opinion/forum/forum-steps-being-taken-to-enhance-safety-in-outdoor-adventure-education-activities" rel="noopener noreferrer nofollow" target="_blank">OAE Council: Steps being taken to enhance safety in outdoor adventure education activities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Forum reply to Mr Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities"</a>
+<p>Forum reply to Mr. Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities"</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
