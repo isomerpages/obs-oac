@@ -15,7 +15,8 @@ the future of our OAE sector.</p>
 <p>The Council is commissioning a research study on the OAE sector and findings
 will be available end 2024. This will guide the eventual Professional Development
 Framework for Singapore's OAE sector.</p>
-<p>Please refer to Milestones for updates.</p>
+<p>Please refer to <a href="/about/milestones/" rel="noopener noreferrer nofollow" target="_blank">Milestones Page </a>for
+progress updates.</p>
 <hr>
 <h3>Skills Framework</h3>
 <h4>Outdoor Leadership</h4>
