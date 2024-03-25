@@ -4,14 +4,13 @@ permalink: /about/overview/
 description: ""
 variant: tiptap
 ---
-<h3>Welcome</h3>
-<p>Welcome to the official <strong><u>Singapore Outdoor Adventure Education (OAE) website</u></strong>.
-Here, you will find detailed insights into the Council's plans, sector
+<h3><strong>Welcome to the official Singapore Outdoor Adventure Education (OAE) Website</strong></h3>
+<p>Here, you will find detailed insights into the Council's plans, sector
 development and valuable resources. From national standards and professional
 development to safety compliance and sector promotion, our website offers
 a wealth of knowledge to support the growth and transformation of the OAE
-sector. Explore our resources and stay informed about the latest advancements
-in outdoor education.</p>
+sector. Explore our resources and stay informed about the latest happenings
+in Singapore outdoor education scene.</p>
 <hr>
 <h3>Initiative by the OAE Council</h3>
 <p>The OAE Council hopes to continuously inspire the spirit of learning and
