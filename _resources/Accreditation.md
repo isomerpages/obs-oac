@@ -4,7 +4,7 @@ permalink: /resources/accreditation-and-adoption/
 variant: tiptap
 description: ""
 ---
-<h3>Why should my organisation undergo accreditation?</h3>
+<h3><strong>Accreditation is the way forward</strong></h3>
 <p>Accreditation serves as a seal of approval, assuring all stakeholders
 that the activities are conducted with safety, quality, and excellence
 at the forefront. It signifies that providers and practitioners meet certain
