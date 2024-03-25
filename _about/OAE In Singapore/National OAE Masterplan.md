@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: OAE In Singapore
 ---
-<h3><strong>Why OAE is unique in Singapore’s context</strong></h3>
+<h3><strong>Singapore’s Unique OAE Scene</strong></h3>
 <p>The National OAE Masterplan estimates that 218,000 students participate
 in OAE programmes and adventure pursuits annually. The MOE Outdoor Adventure
 Learning Centres and Outward Bound Singapore support 90,000 students through
