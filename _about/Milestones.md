@@ -41,7 +41,11 @@ Comments</p>
 <p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page</a>
 </p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
-<h5><em><u>Sectorial Data Collection</u></em></h5>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><em><u>Sectorial Data Collection</u></em></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Aggregated data on demographics, programmes, participants and incidents.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,9 +62,23 @@ and more respondents</p>
 1, focusing on cohort camps and MOE challenge programmes.</p>
 </li>
 </ul>
-<h5><em><u>Incident Reporting and Near Misses</u></em></h5>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><em><u>Incident Reporting and Near Misses</u></em></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Concept Stage</p>
-<h5><em><u>Tools and Templates</u></em></h5>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><em><u>Tools and Templates</u></em></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Upcoming</strong>: TBC</p>
@@ -74,4 +92,8 @@ for OAE providers.</p>
 Best Practices' document for OAE providers.</p>
 </li>
 </ul>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
