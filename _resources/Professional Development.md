@@ -4,20 +4,23 @@ permalink: /resources/professional-development/
 description: ""
 variant: tiptap
 ---
-<p>&lt;Preamble&gt;</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Leadership</div><div class="isomer-card-description">Outdoor Leader's Skills Framework by Dr. Simon Priest</div><div class="isomer-card-link">Jump to Outdoor Leadership</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Formal Education</div>
-<div class="isomer-card-description">Local and Overseas Institutions offering structured courses</div>
-<div class="isomer-card-link">Jump to Institutions</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hard Skills</div><div class="isomer-card-description">Certification avenues for technical activities offered in OAE programmes</div><div class="isomer-card-link">Jump to Certifications</div></div></a>
-</div>
+<p>Whether you are a practitioner or an OAE programme provider, investing
+in professional development is important for unlocking potential. Embrace
+learning to fuel innovation, enhance skills, and advance careers. This
+page provides you with frameworks, pathways and courses to empower you
+on your journey. Your commitment to professional development today shapes
+the future of our OAE sector.</p>
 <hr>
-<h3>Outdoor Leadership</h3>
+<h3>Professional Development Framework</h3>
+<p>The Council is commissioning a research study on the OAE sector and findings
+will be available end 2024. This will guide the eventual Professional Development
+Framework for Singapore's OAE sector.</p>
+<p>Please refer to Milestones for updates.</p>
+<hr>
+<h3>Skills Framework</h3>
+<h4>Outdoor Leadership</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/outdoor_leadership_wall.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/outdoor_leadership_wall.jpeg">
 </div>
 <p>Developed by <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Simon Priest</a>,
 the <strong>outdoor leadership wall</strong> was an idea that stemmed from
