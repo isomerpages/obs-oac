@@ -161,7 +161,7 @@ suspension</p>
 <p>New Council formed to revamp Singapore's outdoor adventure education sector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.channelnewsasia.com/singapore/council-outdoor-adventure-education-safety-infrastructure-2955191" rel="noopener noreferrer nofollow" target="_blank">CNA: OAEC</a>
+<p><a href="https://www.channelnewsasia.com/singapore/council-outdoor-adventure-education-safety-infrastructure-2955191" rel="noopener noreferrer nofollow" target="_blank">CNA: OAE Council formed</a>
 </p>
 </td>
 </tr>
@@ -170,12 +170,12 @@ suspension</p>
 <p>Sept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Speech by Mr Edwin Tong, Minister for Culture, Community and Youth
-&amp; Second Minister for Law at the National Outdoor Education Conference
+<p>Opening Speech by Mr. Edwin Tong, Minister for Culture, Community and
+Youth &amp; Second Minister for Law at the National Outdoor Education Conference
 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/nov/national-outdoor-education-conference-2022-on-22-september-2022" rel="noopener noreferrer nofollow" target="_blank">MCCY: Opening Speech NOAC 2022</a>
+<p><a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/nov/national-outdoor-education-conference-2022-on-22-september-2022" rel="noopener noreferrer nofollow" target="_blank">MCCY: Minister Edwin Tong's Opening Speech NOAC 2022</a>
 </p>
 </td>
 </tr>
