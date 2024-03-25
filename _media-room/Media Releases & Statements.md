@@ -4,7 +4,7 @@ permalink: /media-room/statements/
 description: ""
 variant: tiptap
 ---
-<h3>Media Releases</h3>
+<h4>Media Releases</h4>
 <table>
 <tbody>
 <tr>
@@ -41,6 +41,19 @@ to volunteer instructor in SAFRA Yishun incident</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.channelnewsasia.com/singapore/volunteer-instructor-camelot-student-death-outdoor-rope-course-4073151" rel="noopener noreferrer nofollow" target="_blank">OAE Council: National Standards in the pipeline</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 October 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic and Cerebral Palsy Alliance Singapore School Launches
+Inclusive Outdoor Learning Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.rp.edu.sg/docs/default-source/about-us-doc/media-releases/2023/rp-and-cpass-launches-inclusive-outdoor-learning-programme.pdf?sfvrsn=a1c9860_7" rel="noopener noreferrer nofollow" target="_blank">RP: RP and CPAS Inclusive Outdoor Learning Programme</a>
 </p>
 </td>
 </tr>
@@ -83,7 +96,7 @@ from February 2023</p>
 </tr>
 </tbody>
 </table>
-<h3>Statements</h3>
+<h4>Statements</h4>
 <table>
 <tbody>
 <tr>
