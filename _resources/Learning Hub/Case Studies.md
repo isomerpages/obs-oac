@@ -13,4 +13,4 @@ outdoor adventure education community.</p>
 from real-life incidents, near misses, and emergencies. Together, we can
 foster a culture of continuous improvement, where every experience shared
 is a lesson learned and a step towards a safer, more responsible OAE sector.</p>
-<p>Your contribution matters. Share your story today.</p>
+<p>Your contribution matters. <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">Share </a>your story today.</p>
