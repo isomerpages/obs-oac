@@ -84,6 +84,19 @@ from February 2023</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Jan 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Minister Tharman unveils Republic Polytechnic’s new Xperiential
+Learning Centre at the institution’s 20th anniversary milestone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.rp.edu.sg/docs/default-source/about-us-doc/media-releases/2022/senior-minister-tharman-unveils-republic-polytechnics-new-xperiential-learning-centre-at-the-institutions-20th-anniversary-milestone.pdf?sfvrsn=709a37b9_6" rel="noopener noreferrer nofollow" target="_blank">RP: Launch new Xperiential Learning Centre</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Feb 2017</p>
 </td>
 <td rowspan="1" colspan="1">
