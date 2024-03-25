@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Standards & Guidelines
 ---
-<h3>Information on Singapore Standards for OAE Activities (SS OAEA)</h3>
+<h3><strong>Information on Singapore Standards for OAE Activities </strong><br><strong>(SS OAEA)</strong></h3>
 <p>The SS OAEA, owned by Enterprise Singapore (<a href="https://www.smf-sdo.org.sg/about-us/about-smf-sdo" rel="noopener noreferrer nofollow" target="_blank">ESG</a>), is co-convened
 by Outward Bound Singapore (<a href="https://www.nyc.gov.sg/en/obs" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and Outdoor Learning and
 Adventure Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>) Association. It aims to enhance the
@@ -45,7 +45,8 @@ adoption.</p>
 practitioners), minimise the number of incidents arising from the use of
 OAE activities and support the continued growth of OAE activities in educational
 programmes.</p>
-<h3>SS OAEA Working Group Representation</h3>
+<hr>
+<h4>SS OAEA Working Group Representation</h4>
 <p>Since December 2022, the OAE Council has been collaborating with key stakeholders,
 including practitioners, OAE providers, and government agencies, to establish
 this national standard. The working group comprises the following members
