@@ -12,6 +12,7 @@ of Singaporean youth. Through carefully designed activities, OAE professionals
 create a learning zone where students can engage in experiential learning,
 with facilitated learning outcomes that promote personal growth and skill
 development.</p>
+<hr>
 <h4>OAE Professional (Private Companies)</h4>
 <p>Under Construction</p>
 <h4>Outdoor Adventure Educator (MOE)</h4>
