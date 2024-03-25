@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: OAE In Singapore
 ---
-<h3>Why OAE is unique in Singapore’s context</h3>
+<h3><strong>Why OAE is unique in Singapore’s context</strong></h3>
 <p>The National OAE Masterplan estimates that 218,000 students participate
 in OAE programmes and adventure pursuits annually. The MOE Outdoor Adventure
 Learning Centres and Outward Bound Singapore support 90,000 students through
@@ -13,7 +13,7 @@ various camps and programmes. About 40 commercial OAE providers support
 an additional 128,000 students. They also cater to numerous youths and
 adults engaged in recreational adventure activities.</p>
 <hr>
-<h3>National OAE Masterplan</h3>
+<h4>National OAE Masterplan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NOAE_MP.png">
 </div>
