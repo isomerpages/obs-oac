@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: OAE In Singapore
 ---
+<h3><strong>We are OAE Professionals</strong></h3>
 <p>The role of an Outdoor Adventure Education (OAE) professional, particularly
 an educator, involves utilising the outdoors as a platform for self-discovery
 and social awareness. They play a critical role in the holistic development
