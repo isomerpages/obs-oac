@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: OAE In Singapore
 ---
+<h3><strong>The OAE Sector is Connected</strong></h3>
 <p>The OAE ecosystem is deeply interconnected and intertwined, with various
 stakeholders playing crucial roles. The sector's success relies on strengthening
 symbiotic relationships and fostering a shared vision of delivering safe
