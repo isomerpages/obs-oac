@@ -5,4 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Hub
 ---
-<p>This page serves as a platform to capture and archive case studies, such as incidents, emergencies, near misses, and whistle-blowing. We encourage individuals to submit their experiences, ensuring anonymity. It promotes reflection, encourages learning, and facilitates the sharing of valuable insights for continuous improvement in safety and best practices.</p>
+<h4><strong>Welcome to the OAE Sector's Case Study Archive!</strong></h4>
+<p>Your experiences matter, and your insights can make a real difference.
+By sharing your stories, you contribute to a safer and more responsible
+outdoor adventure education community.</p>
+<p>Your anonymity is guaranteed, and your submissions will help others learn
+from real-life incidents, near misses, and emergencies. Together, we can
+foster a culture of continuous improvement, where every experience shared
+is a lesson learned and a step towards a safer, more responsible OAE sector.</p>
+<p>Your contribution matters. Share your story today.</p>
