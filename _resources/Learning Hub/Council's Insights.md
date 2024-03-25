@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Hub
 ---
-<h3>Professional Development Research Study</h3>
+<h3><strong>Welcome to the OAE Council's Insights Page!</strong></h3>
+<p>Explore Council's valuable findings from studies, event feedback, and
+sector views. Gain unique perspectives, stay informed, and be part of the
+conversation that shapes the future of outdoor adventure education. Explore
+now.</p>
+<hr>
+<h4>Professional Development Research Study</h4>
 <p>The Council is commissioning a research study focusing on three key areas
 within the sector.</p>
 <p>In the <strong>sector macro level analysis</strong>, it aims to determine
@@ -28,7 +34,8 @@ of the OAE sector, ensuring a thriving and rewarding career path for professiona
 in the field.</p>
 <p><a href="/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this study.</a>
 </p>
-<h3>Findings</h3>
+<hr>
+<h4>Archived Findings</h4>
 <table>
 <tbody>
 <tr>
