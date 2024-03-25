@@ -65,13 +65,34 @@ ensuring effective management and coordination within each workstream.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Krishnan Aravinthan and Mr. Delane Lim</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr. Krishnan Aravinthan</p>
+</li>
+<li>
+<p>Mr. Delane Lim</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Lim Leng Er and Mr. Nicholas Conceicao</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms. Lim Leng Er</p>
+</li>
+<li>
+<p>Mr. Nicholas Conceicao</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Eddie Foo and Mr. Zishan Amir</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr. Eddie Foo</p>
+</li>
+<li>
+<p>Mr. Zishan Amir</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
