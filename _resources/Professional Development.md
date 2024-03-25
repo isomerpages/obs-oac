@@ -4,6 +4,7 @@ permalink: /resources/professional-development/
 description: ""
 variant: tiptap
 ---
+<h3><strong>Fostering Growth, Elevating Skills!</strong></h3>
 <p>Whether you are a practitioner or an OAE programme provider, investing
 in professional development is important for unlocking potential. Embrace
 learning to fuel innovation, enhance skills, and advance careers. This
@@ -11,15 +12,14 @@ page provides you with frameworks, pathways and courses to empower you
 on your journey. Your commitment to professional development today shapes
 the future of our OAE sector.</p>
 <hr>
-<h3>Professional Development Framework</h3>
+<h4>Professional Development Framework</h4>
 <p>The Council is commissioning a research study on the OAE sector and findings
 will be available end 2024. This will guide the eventual Professional Development
 Framework for Singapore's OAE sector.</p>
 <p>Please refer to <a href="/about/milestones/" rel="noopener noreferrer nofollow" target="_blank">Milestones Page </a>for
 progress updates. Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
 <hr>
-<h3>Skills Framework</h3>
-<h4>Outdoor Leadership</h4>
+<h4>Skills Framework - Outdoor Leadership</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/outdoor_leadership_wall.jpeg">
 </div>
@@ -28,7 +28,7 @@ the <strong>outdoor leadership wall</strong> was an idea that stemmed from
 his 1983 master thesis on outdoor leadership. It is a commonly adopted
 skills framework for Outdoor Leaders.</p>
 <hr>
-<h3>Formal Education</h3>
+<h4>Formal Education</h4>
 <p>These courses, non-exhaustive, range from 1 year to 4 years. It provides
 both theoretical knowledge and practical skills to prepare learners for
 a role in outdoor, environmental and sustainable industry.</p>
@@ -87,7 +87,7 @@ a role in outdoor, environmental and sustainable industry.</p>
 education courses provide valuable formal education for aspiring professionals
 in the OAE sector.</p>
 <hr>
-<h3>Hard Skills (Technical)</h3>
+<h4>Hard Skills (Technical)</h4>
 <p>The administration of outdoor technical skills such as climbing, kayaking,
 and dragonboating is overseen by our <a href="https://www.activesgcircle.gov.sg/find-a-national-sports-association" rel="noopener noreferrer nofollow" target="_blank">National Sports Associations (NSAs)</a>.
 These NSAs are responsible for ensuring the development and promotion of
