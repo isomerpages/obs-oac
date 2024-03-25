@@ -10,7 +10,8 @@ third_nav_title: Learning Hub
 shaping the OAE sector. Each publication holds the potential to inspire,
 inform, and expand your horizon in OAE developments, programming pedagogy
 and safety system.</p>
-<p>Please contact us if you wish to suggest relevant articles.</p>
+<p>Please <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a> if
+you wish to suggest relevant articles.</p>
 <hr>
 <h4>OAE Developments</h4>
 <table>
