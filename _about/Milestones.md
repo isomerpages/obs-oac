@@ -38,7 +38,8 @@ Comments</p>
 </li>
 </ul>
 <p>There were no bidders from the last procurement exercise in Nov 2023.</p>
-<p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page</a>
+<p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page. </a>Details
+of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
 </p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
