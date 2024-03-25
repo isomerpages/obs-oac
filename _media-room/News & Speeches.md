@@ -131,6 +131,19 @@ River</p>
 <p>Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>'Already lost half our instructors': Some outdoor education operators
+fear that new requirements may worsen manpower woes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.todayonline.com/singapore/outdoor-education-instructors-manpower-woes-2100841" rel="noopener noreferrer nofollow" target="_blank">TODAY: Resumption requirements may add to manpower challenge</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Schools resume height-based activities but at lower capacity, after two-year
 suspension</p>
 </td>
