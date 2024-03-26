@@ -191,6 +191,7 @@ who have actively contributed to the development of the standard.</p>
 </tr>
 </tbody>
 </table>
-<h4>Please click <a href="/about/milestones" rel="noopener noreferrer nofollow" target="_blank">here </a>for upcoming milestones of SS OAEA</h4>
+<p>Please click <a href="/about/milestones" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+upcoming milestones of SS OAEA</p>
 <p></p>
 <p></p>
