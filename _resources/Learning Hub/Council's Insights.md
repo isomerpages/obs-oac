@@ -51,7 +51,7 @@ in the field.</p>
 <p>Nov 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/resources/standards-and-guidelines/worldcafe/" rel="noopener noreferrer nofollow" target="_blank">National OAE Conference 2022 World Café Data Readback</a>
+<p><a href="/resources/2023/worldcafe/" rel="noopener noreferrer nofollow" target="_blank">National OAE Conference 2022 World Café Data Readback</a>
 </p>
 </td>
 </tr>
