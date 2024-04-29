@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - OAE In Singapore/.keep
-      - OAE In Singapore/National OAE Masterplan.md
-      - OAE In Singapore/OAE Professionals.md
-      - OAE In Singapore/OAE Stakeholders.md
+      - OAE in Singapore/.keep
+      - OAE in Singapore/National OAE Masterplan.md
+      - OAE in Singapore/OAE Professionals.md
+      - OAE in Singapore/OAE Stakeholders.md
       - OAE Council/.keep
       - OAE Council/Representation.md
       - OAE Council/Vision.md
