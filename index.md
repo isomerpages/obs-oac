@@ -10,7 +10,7 @@ notification: The Singapore Standards for OAE Activities document is targeted
 sections:
   - hero:
       title: Singapore Outdoor Adventure Education
-      background: /images/2022 obs outdoor education conference - 0184.jpg
+      background: /images/2022_OBS_Outdoor_Education_Conference___0184_dark.jpg
       subtitle: An official site developed by the OAE Council Singapore to provide
         reliable resources and latest happenings in the OAE landscape.
       variant: center
