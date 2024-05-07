@@ -6,11 +6,11 @@ variant: tiptap
 third_nav_title: OAE Council
 ---
 <h3>The OAE Council: Co-Chairpersons</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rc4.nus.edu.sg/current-faculty/tan-lai-yong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Tan Lai Yong" src="/images/drtan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Co-chair (Private)</div><div class="isomer-card-description">Dr. Tan Lai Yong is an Adjunct Associate Professor with College of Alice &amp; Peter Tan, NUS. A medical doctor and community advocate, he chaired MOE's Advisory Panel for Outdoor Adventure Learning (OAL) from Feb 2016 to Feb 2019.</div><div class="isomer-card-link">More about Dr. Tan</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rc4.nus.edu.sg/current-faculty/tan-lai-yong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Tan Lai Yong" src="/images/Tan_Lai_Yong__edited_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Co-chair (Private)</div><div class="isomer-card-description">Dr. Tan Lai Yong is an Adjunct Associate Professor with College of Alice &amp; Peter Tan, NUS. A medical doctor and community advocate, he chaired MOE's Advisory Panel for Outdoor Adventure Learning (OAL) from Feb 2016 to Feb 2019.</div><div class="isomer-card-link">More about Dr. Tan</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sg.linkedin.com/in/davidxchua" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="David Chua" src="/images/David3.png">
+<img style="width: 100%" height="auto" width="100%" alt="David Chua" src="/images/David_Chua__edited_.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -50,7 +50,12 @@ was appointed to replace Ms. Delphine Fong as SportSG's representative.</p>
 <p>The Council has organized the work into three distinct areas: <strong>Standards and Certification, Professional Development and Safety, and Compliance and Promotion.</strong> Each
 of these areas is led by co-leads who oversee the respective sub-committees,
 ensuring effective management and coordination within each workstream.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
