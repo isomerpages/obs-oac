@@ -23,6 +23,6 @@ OAE programmes.</p>
 and OAE Council in areas of trust-building, knowledge-sharing and collective
 responsibility of uplifting the sector.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/outcomes.png">
+<img style="width: 100%" height="auto" width="100%" alt="Two long term outcomes for the sector" src="/images/Vision__FA_.jpg">
 </div>
 <p></p>
