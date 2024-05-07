@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Learning Hub
 ---
-<h3><strong>Engage with Articles and Publications!</strong></h3>
+<h3><strong>Engage with Articles and Publications</strong></h3>
 <p>From local insights to global findings, immerse yourself in the research
 shaping the OAE sector. Each publication holds the potential to inspire,
 inform, and expand your horizon in OAE developments, programming pedagogy
@@ -14,7 +14,11 @@ and safety system.</p>
 you wish to suggest relevant articles.</p>
 <hr>
 <h4>OAE Developments</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,7 +54,11 @@ Outdoor Learning, 14:2, 153-171, DOI: 10.1080/14729679.2013.798587</p>
 </tbody>
 </table>
 <h4>Programming Pedagogy</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,7 +91,11 @@ education online. <em>Journal of Adventure Education and Outdoor Learning</em>, 
 </tbody>
 </table>
 <h4>Safety System</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
