@@ -30,7 +30,7 @@ under the MOE-MCCY Steering Committee.</div>
 private sector providers, outdoor practitioners and relevant experts from
 academia, industrial safety and professional development.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/oae%20council%20diverse%20membership1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OAE Council Representation" src="/images/Council_Representation__FA_.jpg">
 </div>
 <p><strong>Updates:</strong>
 </p>
