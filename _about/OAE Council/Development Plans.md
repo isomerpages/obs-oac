@@ -28,7 +28,7 @@ growth and transformation of the sector.</p>
 <hr>
 <h3>Long Term Development of the OAE Sector</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/long%20term.png">
+<img style="width: 100%" height="auto" width="100%" alt="Long term development plans for the OAE Sector" src="/images/Development_Plans__FA_.jpg">
 </div>
 <p>In addition to promoting the adoption of new national standards, the OAE
 Council will monitor incident rates and adoption rate of national standards,
