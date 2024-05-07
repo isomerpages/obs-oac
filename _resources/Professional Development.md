@@ -4,7 +4,7 @@ permalink: /resources/professional-development/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Fostering Growth, Elevating Skills!</strong></h3>
+<h3><strong>Fostering Growth, Elevating Skills</strong></h3>
 <p>Whether you are a practitioner or an OAE programme provider, investing
 in professional development is important for unlocking potential. Embrace
 learning to fuel innovation, enhance skills, and advance careers. This
@@ -32,7 +32,12 @@ skills framework for Outdoor Leaders.</p>
 <p>These courses, non-exhaustive, range from 1 year to 4 years. It provides
 both theoretical knowledge and practical skills to prepare learners for
 a role in outdoor, environmental and sustainable industry.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
