@@ -12,8 +12,8 @@ symbiotic relationships and fostering a shared vision of delivering safe
 and high-quality outdoor programs for participants. Collaboration and alignment
 among all involved parties are essential for the thriving and sustainable
 growth of the OAE sector.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OAE ecosystem of interconnected stakeholders" src="/images/Stakeholders__FA_.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stakeholders of OAE Sector in Singapore" src="/images/Stakeholders__JPG_90_.jpg">
+</div>
 <p></p>
