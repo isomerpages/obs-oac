@@ -11,27 +11,29 @@ variant: tiptap
 <p><strong>Target Q1 2025</strong> - Publication</p>
 </li>
 <li>
-<p><strong>Target July 2024</strong> - Standards Committee's Approval</p>
+<p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
 </li>
 <li>
-<p><strong>Target Apr 2024</strong> - Technical Committee's Approval and Public
-Comments</p>
+<p><strong>Target July to August 2024</strong> - Public Consultation</p>
 </li>
 <li>
-<p><strong>Target Mar 2024</strong> - Working Group's Approval</p>
+<p><strong>Target June 2024</strong> - Technical Committee's Approval</p>
+</li>
+<li>
+<p><strong>Target March 2024</strong> - Working Group's Approval</p>
 </li>
 </ul>
 <h3><strong>Workstream: Professional Development</strong></h3>
 <h5><em><u>Professional Development Research Study</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Target October 2024</strong> - Completes Research</p>
+<p><strong>Target January 2025</strong> - Completes Research</p>
 </li>
 <li>
-<p><strong>Target May 2024</strong> - Commences Research</p>
+<p><strong>Target August 2024</strong> - Commences Research</p>
 </li>
 <li>
-<p><strong>Target April 2024</strong> - Award Contract</p>
+<p><strong>Target May 2024</strong> - Award Contract</p>
 </li>
 <li>
 <p><strong>Feb 2024</strong> - Procurement Preparation</p>
@@ -54,9 +56,9 @@ of the research can be found on <a href="/resources/learninghub/insights/" rel="
 more respondents and datafields.</p>
 </li>
 <li>
-<p><strong>Target April 2024</strong> - Roll out Phase 2. Data extends to
-more respondents and datafields, including overseas expeditions / camps
-and more respondents</p>
+<p><strong>Target May 2024</strong> - Roll out Phase 2. Data extends to more
+respondents and datafields, including overseas expeditions / camps and
+more respondents</p>
 </li>
 <li>
 <p><strong>November 2023</strong> - Rolled out to 6 respondents for Phase
