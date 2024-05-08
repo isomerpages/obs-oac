@@ -2,11 +2,10 @@
 title: Overview
 permalink: /about/overview/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
 <h3><strong>Welcome to the official Singapore Outdoor Adventure Education (OAE) Website</strong></h3>
-<p>Here, you will find detailed insights into the Council's plans, sector
+<p>Here, you will find detailed insights into the OAE Council's plans, sector
 development and valuable resources. From national standards and professional
 development to safety compliance and sector promotion, our website offers
 a wealth of knowledge to support the growth and transformation of the OAE
@@ -24,9 +23,9 @@ sharing within the OAE Sector.</p>
 </div>
 <p>Our logo draws inspiration from the imagery of a tent, symbolising safety
 and shelter in the outdoors.</p>
-<p>The inverted Vs represent diverse sectors converging to fortify the OAE
-landscape, highlighting collaborative spirit.</p>
+<p>The inverted Vs represent diverse stakeholders converging to fortify the
+OAE landscape, highlighting collaborative spirit.</p>
 <p>A triangle within the logo embodies transformation and progress, signifying
 stability and balance. This reflects the resilience and evolution in our
-collective efforts to advance outdoor adventure education in Singapore.</p>
+collective efforts to advance OAE in Singapore.</p>
 <p></p>
