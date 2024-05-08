@@ -16,3 +16,4 @@ growth of the OAE sector.</p>
 <img style="width: 100%" height="auto" width="100%" alt="OAE ecosystem of interconnected stakeholders" src="/images/Stakeholders__FA_.jpg">
 </div>
 <p></p>
+<p></p>
