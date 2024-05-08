@@ -29,9 +29,8 @@ under the MOE-MCCY Steering Committee.</div>
 19-member OAE Council is an advisory body comprising government agencies,
 private sector providers, outdoor practitioners and relevant experts from
 academia, industrial safety and professional development.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OAE Council Representation" src="/images/Council_Representation__JPG_90_Updated_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OAE Council Representation" src="/images/800kb_Council_Representation__JPG_90_Updated_.jpg">
 </div>
 <p><strong>Updates:</strong>
 </p>
