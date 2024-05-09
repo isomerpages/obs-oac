@@ -5,10 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Notable Media Events and Official Speeches</strong></h3>
-<blockquote>
-<p>Channel NewsAsia (CNA)</p>
-<p>The Straits Times (ST)</p>
-</blockquote>
+<p><em>Note: Channel NewsAsia (CNA), The Straits Times (ST)</em>
+</p>
 <h4>2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
