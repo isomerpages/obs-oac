@@ -13,7 +13,7 @@ and safety system.</p>
 <p>Please <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a> if
 you wish to suggest relevant articles.</p>
 <hr>
-<h4>OAE Development and Impact</h4>
+<h4>OE Development and Impact</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,6 +47,18 @@ DOI: 10.13140/RG.2.1.3451.3687.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://dx.doi.org/10.13140/RG.2.1.3451.3687" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Atencio, M., Tan, Y. S. M., Ho, S., &amp; Ching, C. T. (2015).</strong> ‘The
+strawberry generation… they are too pampered’: Pre-service physical education
+teachers’ perspectives on outdoor education in Singapore. European Physical
+Education Review, 21(1), 31-50. DOI: 10.1177/1356336X14550939</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://doi.org/10.1177/1356336X14550939" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
@@ -110,6 +122,18 @@ education online. <em>Journal of Adventure Education and Outdoor Learning</em>, 
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://doi.org/10.1080/14729679.2016.1147966" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tan, Y. S. M., &amp; Atencio, M. (2016). </strong>Unpacking a
+place-based approach – “What lies beyond?” Insights drawn from teachers'
+perceptions of Outdoor Education. <em>Teaching and Teacher Education</em>, <em>56</em>,
+25-34.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://doi.org/10.1016/j.tate.2016.02.001" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
