@@ -30,6 +30,16 @@ you wish to suggest relevant articles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ho, Susanna. (2016). </strong>Outdoor Education in Singapore.
+DOI: 10.13140/RG.2.1.3451.3687.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://dx.doi.org/10.13140/RG.2.1.3451.3687" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Matthew Atencio, Yuen Sze Michelle Tan, Susanna Ho &amp; Chew Ting Ching (2015)</strong> The
 place and approach of outdoor learning within a holistic curricular agenda:
 development of Singaporean outdoor education practice, Journal of Adventure
@@ -37,16 +47,6 @@ Education and Outdoor Learning, 15:3, 181-192, DOI: 10.1080/14729679.2014.949807
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://doi.org/10.1080/14729679.2014.949807" rel="noopener noreferrer nofollow" target="_blank">Link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ho, Susanna. (2016). </strong>Outdoor Education in Singapore.
-DOI: 10.13140/RG.2.1.3451.3687.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://dx.doi.org/10.13140/RG.2.1.3451.3687" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
