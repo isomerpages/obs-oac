@@ -75,6 +75,18 @@ Outdoor Learning, 14:2, 153-171, DOI: 10.1080/14729679.2013.798587</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Gassner, M. E., &amp; Russell, K. C. (2008). </strong>Relative
+impact of course components at Outward Bound Singapore: a retrospective
+study of long-term outcomes. Journal of Adventure Education and Outdoor
+Learning, 8(2), 133–156. DOI: 10.1080/14729670802597345</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://doi.org/10.1080/14729670802597345" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Wang, John &amp; Liu, Woon &amp; Kahlid, Abdul. (2006).</strong> Effects
 of a five-day Outward Bound course on female students in Singapore. Australian
 Journal of Outdoor Education. 10. 20-28. DOI: 10.1007/BF03400836.</p>
