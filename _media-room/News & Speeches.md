@@ -43,6 +43,19 @@ through detailed checklists</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forum: Steps being taken to enhance safety in outdoor adventure education
+activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/opinion/forum/forum-steps-being-taken-to-enhance-safety-in-outdoor-adventure-education-activities" rel="noopener noreferrer nofollow" target="_blank">ST: OAE Council's reply to forum letters</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Feb</p>
 </td>
 <td rowspan="1" colspan="1">
