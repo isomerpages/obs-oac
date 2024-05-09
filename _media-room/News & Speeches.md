@@ -5,8 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Notable Media Events and Official Speeches</strong></h3>
+<blockquote>
+<p>Channel NewsAsia (CNA)</p>
+<p>The Straits Times (ST)</p>
+</blockquote>
 <h4>2024</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +96,12 @@ at Safra Yishun in 2021</p>
 </tbody>
 </table>
 <h4>2023</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -167,7 +181,12 @@ suspension</p>
 </tbody>
 </table>
 <h4>2022</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
