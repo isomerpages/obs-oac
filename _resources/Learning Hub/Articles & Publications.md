@@ -115,10 +115,13 @@ education online. <em>Journal of Adventure Education and Outdoor Learning</em>, 
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Martin, P., &amp; Ho, S. (2009). </strong>Seeking resilience and
+sustainability: outdoor education in Singapore. <em>Journal of Adventure Education and Outdoor Learning</em>, <em>9</em>(1),
+79–92. DOI: 10.1080/14729670802670167</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://doi.org/10.1080/14729670802670167" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
 </td>
 </tr>
 </tbody>
