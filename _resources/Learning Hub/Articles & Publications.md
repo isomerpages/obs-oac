@@ -42,11 +42,11 @@ Education and Outdoor Learning, 15:3, 181-192, DOI: 10.1080/14729679.2014.949807
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ho, Susanna. (2015).</strong> Keynote Address: Outdoor Learning
-in Singapore: Past, Present and Future. 10.13140/RG.2.1.1910.2482.</p>
+<p><strong>Ho, Susanna. (2016). </strong>Outdoor Education in Singapore.
+DOI: 10.13140/RG.2.1.3451.3687.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://dx.doi.org/10.13140/RG.2.1.1910.2482" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+<p><a href="http://dx.doi.org/10.13140/RG.2.1.3451.3687" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
@@ -65,10 +65,22 @@ Outdoor Learning, 14:2, 153-171, DOI: 10.1080/14729679.2013.798587</p>
 <td rowspan="1" colspan="1">
 <p><strong>Wang, John &amp; Liu, Woon &amp; Kahlid, Abdul. (2006).</strong> Effects
 of a five-day Outward Bound course on female students in Singapore. Australian
-Journal of Outdoor Education. 10. 20-28. 10.1007/BF03400836.</p>
+Journal of Outdoor Education. 10. 20-28. DOI: 10.1007/BF03400836.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://link.springer.com/article/10.1007/BF03400836" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wang, C. K. J., Ang, R. P., Teo-Koh, S. M., &amp; Kahlid, A. (2004).</strong> Motivational
+predictors of young adolescents’ participation in an outdoor adventure
+course: A self-determination theory approach. <em>Journal of Adventure Education and Outdoor Learning</em>, <em>4</em>(1),
+57–65. DOI: 10.1080/14729670485200421</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://doi.org/10.1080/14729670485200421" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
