@@ -72,6 +72,19 @@ golf course to make way</p>
 <p>Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Forum: Outdoor adventure education methods and processes continually reviewed
+to ensure safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/opinion/forum/forum-outdoor-adventure-education-methods-and-processes-continually-reviewed-to-ensure-safety" rel="noopener noreferrer nofollow" target="_blank">ST: OAE Council's reply to a forum letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Two months’ jail for instructor after pupil falls 4 storeys from flying
 fox, suffers fractures</p>
 </td>
