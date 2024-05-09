@@ -13,7 +13,7 @@ and safety system.</p>
 <p>Please <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a> if
 you wish to suggest relevant articles.</p>
 <hr>
-<h4>OAE Developments</h4>
+<h4>OAE Development and Impact</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,12 +42,33 @@ Education and Outdoor Learning, 15:3, 181-192, DOI: 10.1080/14729679.2014.949807
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Susanna Ho (2014)</strong> The purposes outdoor education does,
+<p><strong>Ho, Susanna. (2015).</strong> Keynote Address: Outdoor Learning
+in Singapore: Past, Present and Future. 10.13140/RG.2.1.1910.2482.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://dx.doi.org/10.13140/RG.2.1.1910.2482" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ho, Susanna. (2014)</strong> The purposes outdoor education does,
 could and should serve in Singapore, Journal of Adventure Education &amp;
 Outdoor Learning, 14:2, 153-171, DOI: 10.1080/14729679.2013.798587</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://doi.org/10.1080/14729679.2013.798587" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wang, John &amp; Liu, Woon &amp; Kahlid, Abdul. (2006).</strong> Effects
+of a five-day Outward Bound course on female students in Singapore. Australian
+Journal of Outdoor Education. 10. 20-28. 10.1007/BF03400836.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://link.springer.com/article/10.1007/BF03400836" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
