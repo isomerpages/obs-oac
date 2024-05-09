@@ -14,6 +14,6 @@ among all involved parties are essential for the thriving and sustainable
 growth of the OAE sector.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stakeholders of OAE Sector in Singapore" src="/images/Stakeholders__JPG_90_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OAE Sector Stakeholders" src="/images/Stakeholders__Updated_FA_.jpg">
 </div>
 <p></p>
