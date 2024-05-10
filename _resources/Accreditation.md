@@ -27,7 +27,7 @@ please refer to the ACCT Operations Accreditation Process <a href="https://www.a
 <hr>
 <h4>Outdoor Learning and Adventure Education Association (OLAE) Professional Member Accreditation</h4>
 <p>On 24 March 2018, OLAE completed its Standards for Industry Practice -
-1st Edition. This served as a basis upon which Organisational Members may
-be accredited as Professional Members. To be recognised as an <a href="https://www.olae.sg/our-members" rel="noopener noreferrer nofollow" target="_blank">OLAE Professional Member</a>,
-please refer to <a href="https://www.olae.sg/accreditationprofessionalmembers" rel="noopener noreferrer nofollow" target="_blank">OLAE Accreditation Process</a>.</p>
+1st Edition. This was the basis for accrediting Organisational Members
+as Professional Members. To be an <a href="https://www.olae.sg/our-members" rel="noopener noreferrer nofollow" target="_blank">OLAE Professional Member</a>, please
+refer to <a href="https://www.olae.sg/accreditationprofessionalmembers" rel="noopener noreferrer nofollow" target="_blank">OLAE Accreditation Process</a>.</p>
 <p></p>
