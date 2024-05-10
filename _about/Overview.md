@@ -10,7 +10,7 @@ development and valuable resources. From national standards and professional
 development to safety compliance and sector promotion, our website offers
 a wealth of knowledge to support the growth and transformation of the OAE
 sector. Explore our resources and stay informed about the latest happenings
-in Singapore outdoor education scene.</p>
+in Singapore's outdoor education scene.</p>
 <hr>
 <h3>Initiative by the OAE Council</h3>
 <p>The OAE Council hopes to continuously inspire the spirit of learning and
