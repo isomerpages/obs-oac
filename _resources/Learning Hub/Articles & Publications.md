@@ -6,10 +6,9 @@ variant: tiptap
 third_nav_title: Learning Hub
 ---
 <h3><strong>Engage with Articles and Publications</strong></h3>
-<p>From local insights to global findings, immerse yourself in the research
-shaping the OAE sector. Each publication holds the potential to inspire,
-inform, and expand your horizon in OAE developments, programming pedagogy
-and safety system.</p>
+<p>From local insights to global findings, dive into the research that is
+shaping the OAE sector. Each publication can inspire, inform, and expand
+your horizon in OAE developments, programming pedagogy and safety system.</p>
 <p>Please <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a> if
 you wish to suggest relevant articles.</p>
 <hr>
