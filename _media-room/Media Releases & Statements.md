@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h4>Media Releases</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 February 2024</p>
+<p>23 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Schools to Benefit from Increased Capacity at New Outdoor Adventure
@@ -46,7 +51,7 @@ to volunteer instructor in SAFRA Yishun incident</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 October 2023</p>
+<p>20 Oct 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic and Cerebral Palsy Alliance Singapore School Launches
@@ -110,7 +115,12 @@ Learning Centre at the institution’s 20th anniversary milestone</p>
 </tbody>
 </table>
 <h4>Statements</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
