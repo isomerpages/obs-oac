@@ -2,7 +2,7 @@
 title: Overview
 permalink: /about/overview/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Welcome to the official Singapore Outdoor Adventure Education (OAE) Website</strong></h3>
 <p>Here, you will find detailed insights into the OAE Council's plans, sector
