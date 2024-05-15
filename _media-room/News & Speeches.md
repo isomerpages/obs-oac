@@ -147,7 +147,7 @@ at Safra Yishun in 2021</p>
 accident off Sentosa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/https://www.channelnewsasia.com/singapore/kayak-accident-sentosa-floating-sea-blue-barrier-safety-3882881" rel="noopener noreferrer nofollow" target="_blank">CNA: Safety measures, floating barriers off Sentosa</a>
+<p><a href="https://www.channelnewsasia.com/singapore/kayak-accident-sentosa-floating-sea-blue-barrier-safety-3882881" rel="noopener noreferrer nofollow" target="_blank">CNA: Safety measures, floating barriers off Sentosa</a>
 </p>
 </td>
 </tr>
