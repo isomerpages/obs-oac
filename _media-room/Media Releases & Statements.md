@@ -108,7 +108,7 @@ Learning Centre at the institution’s 20th anniversary milestone</p>
 <p>Building Resilience Together Through Enhanced Outdoor Education Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/news/press-releases/20170223-building-resilience-together-through-enhanced-outdoor-education-curriculum" rel="noopener noreferrer nofollow" target="_blank">MOE: Building Resilience Together</a>
+<p><a href="/files/23_Feb_2017___Building_Resilience.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE: Building Resilience Together</a>
 </p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ Learning Centre at the institution’s 20th anniversary milestone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Forum reply to Ms. Prameela Devi Kaneson's Letter <a href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forum/forum-parents-need-safety-assurance-for-height-based-activities" rel="noopener noreferrer nofollow" target="_blank">“Parents need safety assurance for height-based activities” (March 1) </a>and
-Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forum/forum-address-systemic-safety-issues-instead-of-looking-for-a-fall-guy" rel="noopener noreferrer nofollow" target="_blank">“Address systemic safety issues instead of looking for a fall guy” (March 4).</a>
+Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forum/forum-address-systemic-safety-issues-instead-of-looking-for-a-fall-guy" rel="noopener noreferrer nofollow" target="_blank">“Address systemic safety issues instead of looking for a fall guy” (4 Mar)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +152,7 @@ Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.
 <p>7 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Forum reply to Mr. Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities" (Feb 1)</a>
+<p>Forum reply to Mr. Hong Geok Hua's Letter <a href="https://www.straitstimes.com/opinion/forum/letter-of-the-week-don-t-rely-only-on-human-checks-for-outdoor-adventure-activities" rel="noopener noreferrer nofollow" target="_blank">"Don’t rely only on human checks for outdoor adventure activities" (3 Feb)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,8 +165,8 @@ Mr. Delane Lim <a href="https://safe.menlosecurity.com/https://www.straitstimes.
 <p>28 Nov 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Convened taskforce to support resumption of height-based activities beyond
-schools</p>
+<p>OAE Council convened a taskforce to support the resumption of height-based
+activities beyond schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/taskforce.pdf" rel="noopener noreferrer nofollow" target="_blank">OAE Council: CCMTF Taskforce</a>
