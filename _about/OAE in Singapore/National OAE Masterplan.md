@@ -15,7 +15,7 @@ youths and adults engaged in recreational adventure activities.</p>
 <hr>
 <h4>National OAE (NOAE) Masterplan</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NOAE_MP.png">
+<img style="width: 100%" height="auto" width="100%" alt="NOAE Masterplan" src="/images/Masterplan__Updated_FA_3___JPG_90_.jpg">
 </div>
 <p>The NOAE Masterplan was announced during Budget and Committee of Supply
 (COS) 2016 to promote holistic development for all youths through an OAE
