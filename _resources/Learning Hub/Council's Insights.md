@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Learning Hub
 ---
 <h3><strong>Welcome to the OAE Council's Insights Page</strong></h3>
-<p>Explore Council's valuable findings from studies, event feedback, and
+<p>Discover Council's valuable findings from studies, event feedback, and
 sector views. Gain unique perspectives, stay informed, and be part of the
-conversation that shapes the future of outdoor adventure education. Explore
-now.</p>
+conversation that shapes the future of outdoor adventure education. Start
+exploring now.</p>
 <hr>
 <h4>Professional Development Research Study</h4>
 <p>The Council is commissioning a research study, focusing on three key areas
