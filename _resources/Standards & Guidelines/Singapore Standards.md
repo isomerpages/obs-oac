@@ -126,7 +126,7 @@ who have actively contributed to the development of the standard.</p>
 <p>9.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Focus Adventure / Camp Challenge Pte. Ltd.</p>
+<p>Focus Adventure / CAMP CHALLENGE Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
