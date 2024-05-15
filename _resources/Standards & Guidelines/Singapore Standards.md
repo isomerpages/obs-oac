@@ -5,13 +5,13 @@ description: ""
 variant: tiptap
 third_nav_title: Standards & Guidelines
 ---
-<h3><strong>Information on Singapore Standards for OAE Activities </strong><br><strong>(SS OAEA)</strong></h3>
+<h3><strong>Information on Singapore Standards for OAE Activities (SS OAEA)</strong></h3>
 <p>The SS OAEA, owned by Enterprise Singapore (<a href="https://www.smf-sdo.org.sg/about-us/about-smf-sdo" rel="noopener noreferrer nofollow" target="_blank">ESG</a>), is co-convened
-by Outward Bound Singapore (<a href="https://www.nyc.gov.sg/en/obs" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and Outdoor Learning and
-Adventure Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>) Association. It aims to enhance the
+by Outward Bound Singapore (<a href="https://www.nyc.gov.sg/en/obs" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and the Outdoor Learning
+and Adventure Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>) Association. It aims to enhance the
 quality and safety of Outdoor Adventure Education activities in Singapore.
-It encompasses land-based, water-based, and height activities, contextualised
-to include indoor conduct due to Singapore's urbanized environment and
+It encompasses land-based, water-based, and height activities, and is contextualised
+to include indoor conduct due to Singapore's urbanised environment and
 tropical climate.</p>
 <p>By setting a national standard for the Operations, Training and Certification
 of OAE providers, the objective is to:</p>
@@ -51,14 +51,18 @@ programmes.</p>
 including practitioners, OAE providers, and government agencies, to establish
 this national standard. The working group comprises the following members
 who have actively contributed to the development of the standard.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Education</p>
+<p>Ministry of Education (MOE)</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +70,7 @@ who have actively contributed to the development of the standard.</p>
 <p>2.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outward Bound Singapore</p>
+<p>OBS</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +78,7 @@ who have actively contributed to the development of the standard.</p>
 <p>3.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pivotal Learning Pte Ltd</p>
+<p>Pivotal Learning Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +110,7 @@ who have actively contributed to the development of the standard.</p>
 <p>7.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Scout Association /Sands Leadership Devt Centre</p>
+<p>Singapore Scout Association /Sands Leadership Development Centre</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +118,7 @@ who have actively contributed to the development of the standard.</p>
 <p>8.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Innotrek Pte Ltd</p>
+<p>Innotrek Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +126,7 @@ who have actively contributed to the development of the standard.</p>
 <p>9.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Focus Adventure / Camp Challenge</p>
+<p>Focus Adventure / Camp Challenge Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +150,7 @@ who have actively contributed to the development of the standard.</p>
 <p>12. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Explora Pte Ltd</p>
+<p>Explora Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +174,7 @@ who have actively contributed to the development of the standard.</p>
 <p>15. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Polytechnic</p>
+<p>Singapore Polytechnic (SP)</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +182,7 @@ who have actively contributed to the development of the standard.</p>
 <p>16. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Republic Polytechnic</p>
+<p>Republic Polytechnic (RP)</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +190,7 @@ who have actively contributed to the development of the standard.</p>
 <p>17. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SportSG</p>
+<p>Sport Singapore (SportSG)</p>
 </td>
 </tr>
 </tbody>
