@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Welcome to the official Singapore Outdoor Adventure Education (OAE) Website</strong></h3>
-<p>Here, you will find detailed insights into the OAE Council's plans, sector
-development and valuable resources. From national standards and professional
-development to safety compliance and sector promotion, our website offers
-a wealth of knowledge to support the growth and transformation of the OAE
-sector. Explore our resources and stay informed about the latest happenings
-in Singapore's outdoor education scene.</p>
+<p>Here, you will find detailed insights into the OAE Council's plans and
+development in the OAE sector. From national standards to safety compliance,
+our website offers a wealth of knowledge and valuable resources to support
+the growth and transformation of the OAE sector. Explore our resources
+and stay informed about the latest happenings in Singapore's outdoor education
+scene.</p>
 <hr>
 <h3>Initiative by the OAE Council</h3>
 <p>The OAE Council hopes to continuously inspire the spirit of learning and
@@ -23,8 +23,8 @@ sharing within the OAE Sector.</p>
 </div>
 <p>Our logo draws inspiration from the imagery of a tent, symbolising safety
 and shelter in the outdoors.</p>
-<p>The inverted Vs represent diverse stakeholders converging to fortify the
-OAE landscape, highlighting collaborative spirit.</p>
+<p>The inverted 'V's represent diverse stakeholders converging to fortify
+the OAE landscape, highlighting the spirit of collaboration.</p>
 <p>A triangle within the logo embodies transformation and progress, signifying
 stability and balance. This reflects the resilience and evolution in our
 collective efforts to advance OAE in Singapore.</p>
