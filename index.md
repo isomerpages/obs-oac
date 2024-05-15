@@ -23,7 +23,7 @@ sections:
           url: /media-room/news/
         - title: Resources
           description: Find Information & Tools
-          url: /resources/singapore-standards/
+          url: /resources/standards-and-guidelines/singapore-standards/
   - resources:
       title: Latest Happenings
       id: resources
