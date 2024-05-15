@@ -8,31 +8,33 @@ variant: tiptap
 <p>Whether you are a practitioner or an OAE programme provider, investing
 in professional development is important for unlocking potential. Embrace
 learning to fuel innovation, enhance skills, and advance careers. This
-page provides you with frameworks, pathways and courses to empower you
-on your journey. Your commitment to professional development today shapes
-the future of our OAE sector.</p>
+page provides frameworks, pathways and courses to empower you on your journey.
+Your commitment to professional development today shapes the future of
+our OAE sector.</p>
 <hr>
 <h4>Professional Development Framework</h4>
-<p>The Council is commissioning a research study on the OAE sector and findings
-will be available end 2024. This will guide the eventual Professional Development
-Framework for Singapore's OAE sector.</p>
+<p>The Council is commissioning a research study on the OAE sector and the
+findings will be available by end 2024. This will guide the eventual Professional
+Development Framework for Singapore's OAE sector.</p>
 <p>Please refer to <a href="/about/milestones/" rel="noopener noreferrer nofollow" target="_blank">Milestones Page </a>for
 progress updates.</p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
 <hr>
 <h4>Skills Framework - Outdoor Leadership</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/outdoor_leadership_wall.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="Dr Simon Priest's Outdoor Leadership Wall" src="/images/outdoor_leadership_wall.jpeg">
 </div>
-<p>Developed by <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Simon Priest</a>,
-the <strong>outdoor leadership wall</strong> was an idea that stemmed from
-his 1983 master thesis on outdoor leadership. It is a commonly adopted
-skills framework for Outdoor Leaders.</p>
+<p><em><sup>Image Reference: Priest, S. Leadership Management [Online Image]. ePortfolio: Dr. Simon Priest. http://simonpriest.altervista.org/LM.html#BW</sup></em>
+</p>
+<p>The <strong>Outdoor Leadership Wall, </strong>developed by <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Simon Priest</a>,
+originated from his 1983 master's thesis on outdoor leadership. It has
+since become a commonly adopted skills framework for Outdoor Leaders.</p>
+<p></p>
 <hr>
 <h4>Formal Education</h4>
-<p>These courses, non-exhaustive, range from 1 year to 4 years. It provides
-both theoretical knowledge and practical skills to prepare learners for
-a role in outdoor, environmental and sustainable industry.</p>
+<p>These local courses, which are non-exhaustive, range from 1 year to 4
+years. They provide both theoretical knowledge and practical skills to
+prepare learners for a role in outdoor, environmental and sustainable industry.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
