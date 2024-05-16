@@ -5,8 +5,8 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/isomer-logo.svg
 permalink: /
-notification: The Singapore Standards for OAE Activities document is targeted
-  for completion by Q1 2025
+notification: The Singapore Standard for OAE Activities document is targeted for
+  completion by Q1 2025
 sections:
   - hero:
       title: Singapore OAE
