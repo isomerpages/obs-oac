@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Workstream: Standards and Certification</strong></h3>
-<h5><em><u>Singapore Standards for Outdoor Adventure Education Activities (</u></em><a href="/resources/standards-and-guidelines/singapore-standards/" rel="noopener noreferrer nofollow" target="_blank">SS OAEA</a><em><u>)</u></em></h5>
+<h5><em><u>Singapore Standard for Outdoor Adventure Education Activities (</u></em><a href="/resources/standards-and-guidelines/singapore-standard/" rel="noopener noreferrer nofollow" target="_blank">SS OAEA</a><em><u>)</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>March 2024</strong> - Working Group's Approval (Completed)</p>
