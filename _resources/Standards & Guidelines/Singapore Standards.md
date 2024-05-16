@@ -70,7 +70,7 @@ who have actively contributed to the development of the standard.</p>
 <p>2.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OBS</p>
+<p>Outward Bound Singapore (OBS)</p>
 </td>
 </tr>
 <tr>
