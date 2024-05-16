@@ -25,6 +25,9 @@ sections:
         - title: Resources
           description: Find Information & Tools
           url: /resources/standards-and-guidelines/singapore-standards/
+      size: md
+      alignment: left
+      backgroundColor: gray
   - resources:
       title: Latest Happenings
       id: resources
