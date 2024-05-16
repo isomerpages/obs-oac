@@ -15,8 +15,8 @@ The OAE Council is developing the Singapore Standards for OAE Activities,
 which will form the basis of a future national certification and accreditation
 scheme. Anticipate developments on local accreditation scheme from 2025
 onwards.</p>
-<p>Here are some examples of accredited providers of different activities
-who have undergone the various accreditation process:</p>
+<p>Here are some examples of accreditations that you can undertake as an
+OAE provider.</p>
 <hr>
 <h4>Association for Challenge Course Technology (ACCT) Operation Accreditation</h4>
 <p>The Operation Accreditation is a review process administered by ACCT.
