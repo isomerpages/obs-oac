@@ -27,7 +27,7 @@ variant: tiptap
 <h5><em><u>Professional Development Research Study</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Feb 2024</strong> - Procurement Preparation (Completed)</p>
+<p><strong>February 2024</strong> - Procurement Preparation (Completed)</p>
 </li>
 <li>
 <p><strong>Target May 2024</strong> - Award Contract</p>
