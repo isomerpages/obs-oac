@@ -1,0 +1,7 @@
+collections:
+  media-room:
+    output: true
+    order:
+      - News & Speeches.md
+      - Media Releases & Statements.md
+      - Events & Engagements.md

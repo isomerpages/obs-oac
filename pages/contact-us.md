@@ -2,31 +2,30 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: the OAE Council
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - Blk 490 Lorong 6 Toa Payoh
+      - "HDB Hub Biz Three #04-10"
+      - Singapore 310490
+    operating_hours: []
+    maps_link: ""
+    title: National Youth Council Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: David_Chua@nyc.gov.sg
+      - other: ""
+    title: Co-chair's (David Chua) Email
+  - content:
+      - phone: ""
+      - email: Drtanlaiyong@nus.edu.sg
+      - other: ""
+    title: Co-chair's (Dr Tan) Email
+  - content:
+      - phone: ""
+      - email: OAE_Council@mccy.gov.sg
+      - other: This email is managed by the OAE Council Secretariat Team
+    title: General Enquiries & Feedback
+feedback: ""
 ---

@@ -1,12 +1,26 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: tiptap
 ---
-
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<h3><strong>Frequently Asked Questions</strong></h3>
+<h5>1. Tell me more about this website</h5>
+<p>This official site is developed by the Outdoor Adventure Education Council
+to provide reliable resources and latest happenings in the OAE landscape.</p>
+<h5>2. Who runs this website?</h5>
+<p>This website is managed by the OAE Council Secretariat Team.</p>
+<h5>3. How often is the content updated?</h5>
+<p>The team reviews the content quarterly. However, we strive to put out
+critical information as soon as possible.</p>
+<h5>4. How can I reach out to the OAE Council?</h5>
+<p>For general enquiries, feedback and comments, you may wish to contact
+the OAE Council at&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">OAE_Council@mccy.gov.sg</a></strong>.
+<br>The email is managed by OAE Council Secretariat Team: Edvan Loh and Nuffazli
+Abu Bakar.
+<br>If you wish to reach out to the Co-Chairs of the OAE Council, you may
+do so via the following email addresses:
+<br><strong>David Chua</strong>:&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">David_Chua@nyc.gov.sg</a></strong> 
+<br><strong>Dr. Tan Lai Yong</strong>:&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Drtanlaiyong@nus.edu.sg</a></strong>
+</p>
+<h5>5. I have a case study to contribute. How can I do so?</h5>
+<p>You may do so via&nbsp;<strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">OAE_Council@mccy.gov.sg</a></strong>.</p>

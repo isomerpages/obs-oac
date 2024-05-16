@@ -1,32 +1,35 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singapore Outdoor Adventure Education (OAE)
+description: An official site developed by the OAE Council Singapore to provide
+  reliable resources and latest happenings in the OAE landscape.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: The Singapore Standard for OAE Activities document is targeted for
+  completion by Q1 2025
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Singapore OAE
+      background: /images/2022_OBS_Outdoor_Education_Conference___0184_dark.jpg
+      subtitle: An official site developed by the Outdoor Adventure Education (OAE)
+        Council Singapore to provide reliable resources and latest happenings in
+        the OAE landscape.
+      variant: center
+      key_highlights:
+        - title: About
+          description: Understand OAE & the Council
+          url: about/overview/
+        - title: Media Room
+          description: Read Archived Updates
+          url: /media-room/news/
+        - title: Resources
+          description: Find Information & Tools
+          url: /resources/standards-and-guidelines/singapore-standards/
+      size: md
+      alignment: left
+      backgroundColor: gray
+  - resources:
+      title: Latest Happenings
+      id: resources
+      button: What's new
 ---
-

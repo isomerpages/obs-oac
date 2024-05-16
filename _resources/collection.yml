@@ -1,0 +1,13 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Accreditation.md
+      - Professional Development.md
+      - Learning Hub/.keep
+      - Learning Hub/Council's Insights.md
+      - Learning Hub/Case Studies.md
+      - Learning Hub/Articles & Publications.md
+      - Standards & Guidelines/.keep
+      - Standards & Guidelines/Singapore Standard.md
+      - Standards & Guidelines/Advisories & Best Practices.md
