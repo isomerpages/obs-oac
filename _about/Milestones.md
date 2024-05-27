@@ -11,10 +11,10 @@ variant: tiptap
 <p><strong>March 2024</strong> - Working Group's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>Target June 2024</strong> - Technical Committee's Approval</p>
+<p><strong>May 2024</strong> - Technical Committee's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>Target July to August 2024</strong> - Public Consultation</p>
+<p><strong>June to July 2024</strong> - Public Consultation</p>
 </li>
 <li>
 <p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
