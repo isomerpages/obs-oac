@@ -24,7 +24,7 @@ sections:
           url: /media-room/news/
         - title: Resources
           description: Find Information & Tools
-          url: /resources/standards-and-guidelines/singapore-standards/
+          url: /resources/standards-and-guidelines/singapore-standard/
       size: md
       alignment: left
       backgroundColor: gray
