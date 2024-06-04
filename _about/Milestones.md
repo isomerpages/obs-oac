@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Workstream: Standards and Certification</strong></h3>
+<p><em>Design a holistic OAE standards adoption strategy through the establishment of OAE Standards documents, creation of a certification process and establishing a strong standards adoption support eco-system.&nbsp;</em>
+</p>
 <h5><em><u>Singapore Standard for Outdoor Adventure Education Activities (</u></em><a href="/resources/standards-and-guidelines/singapore-standard/" rel="noopener noreferrer nofollow" target="_blank">SS OAEA</a><em><u>)</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,7 +25,10 @@ variant: tiptap
 <p><strong>Target March 2025</strong> - Publication</p>
 </li>
 </ul>
+<p></p>
 <h3><strong>Workstream: Professional Development</strong></h3>
+<p><em>Design a comprehensive capability development roadmap for individuals and organisations in the OAE sector to address renumeration challenges, establish data-driven competency mapping and promoting right conditions for professional development in OAE.&nbsp;</em>
+</p>
 <h5><em><u>Professional Development Research Study</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,7 +49,10 @@ variant: tiptap
 </p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
 </p>
+<p></p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
+<p><em>Institute an OAE sector specific Safety Compliance Monitoring and Promotional Plan by establishing effective compliance monitoring processes and developing a safety promotional plan.&nbsp;</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><em><u>Sectoral Data Collection</u></em></strong>
