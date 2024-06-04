@@ -65,13 +65,13 @@ variant: tiptap
 1, focusing on cohort camps and MOE challenge programmes.</p>
 </li>
 <li>
-<p><strong>Target July 2024</strong> - Roll out Phase 2. Data extends to more
-respondents and datafields, including overseas expeditions / camps and
-more respondents</p>
+<p><strong>Target July 2024</strong> - Roll out Phase 2. Data collection extends
+to more respondents with additional data fields, including overseas expeditions
+/ camps and more respondents</p>
 </li>
 <li>
-<p><strong>Target April 2025</strong> - Roll out Phase 3. Data extends to
-more respondents and datafields.</p>
+<p><strong>Target April 2025</strong> - Roll out Phase 3. Data collection
+extends to more respondents and additional data fields.</p>
 </li>
 </ul>
 </div>
