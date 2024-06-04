@@ -12,7 +12,7 @@ of the OAE sector. Explore our resources and stay informed about the latest
 happenings in Singapore's outdoor education scene.</p>
 <hr>
 <h3>Initiative by the OAE Council</h3>
-<p>The OAE Council hopes to continuously inspire the spirit of learning and
+<p>The OAE Council aims to continuously inspire the spirit of learning and
 sharing within the OAE Sector.</p>
 <p>This website is managed by the OAE Council Secretariat Team.</p>
 <hr>
