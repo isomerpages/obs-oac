@@ -20,7 +20,7 @@ variant: tiptap
 <p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
 </li>
 <li>
-<p><strong>Target Q1 2025</strong> - Publication</p>
+<p><strong>Target March 2025</strong> - Publication</p>
 </li>
 </ul>
 <h3><strong>Workstream: Professional Development</strong></h3>
@@ -30,13 +30,13 @@ variant: tiptap
 <p><strong>February 2024</strong> - Procurement Preparation (Completed)</p>
 </li>
 <li>
-<p><strong>Target May 2024</strong> - Award Contract</p>
+<p><strong>Target July 2024</strong> - Award Contract</p>
 </li>
 <li>
-<p><strong>Target August 2024</strong> - Commences Research</p>
+<p><strong>Target August 2024</strong> - Commence Research</p>
 </li>
 <li>
-<p><strong>Target January 2025</strong> - Completes Research</p>
+<p><strong>Target January 2025</strong> - Complete Research</p>
 </li>
 </ul>
 <p>There were no bidders from the last procurement exercise in Nov 2023.</p>
@@ -47,7 +47,7 @@ variant: tiptap
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><em><u>Sectorial Data Collection</u></em></strong>
+<summary><strong><em><u>Sectoral Data Collection</u></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Aggregated data on demographics, programmes, participants and incidents.</p>
