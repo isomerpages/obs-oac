@@ -29,7 +29,7 @@ sections:
       backgroundColor: gray
       button: The Singapore Standard for OAE Activities document is targeted for
         completion by Q1 2025
-      url: https://www.enterprisesg.gov.sg/Grow-Your-Business/boost-capabilities/quality-and-standards/comment-on-draft-standards
+      url: https://cms.isomer.gov.sg/resources/standards-and-guidelines/singapore-standard/
   - resources:
       title: Latest Happenings
       id: resources
