@@ -32,5 +32,5 @@ sections:
   - resources:
       title: Latest Happenings
       id: resources
-      button: What's new
+      button: See more
 ---
