@@ -53,7 +53,7 @@ plugins:
 staging: https://staging.dyni835izo5mn.amplifyapp.com
 prod: https://master.dyni835izo5mn.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/sharper_logo.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
