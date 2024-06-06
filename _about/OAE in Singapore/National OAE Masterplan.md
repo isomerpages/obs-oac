@@ -17,6 +17,10 @@ youths and adults engaged in recreational adventure activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NOAE Masterplan" src="/images/Masterplan__Updated_FA_3___JPG_90_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore National OAE Masterplan" src="/images/Masterplan__Updated_FA___4_JPG_90_.jpg">
+</div>
 <p>The NOAE Masterplan was announced during Budget and Committee of Supply
 (COS) 2016 to promote holistic development for all youths through an OAE
 pathway from primary to post-secondary school level. All primary and secondary
