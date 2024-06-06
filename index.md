@@ -3,7 +3,7 @@ layout: homepage
 title: Singapore Outdoor Adventure Education (OAE)
 description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
-image: /images/isomer-logo.svg
+image: /images/sharper_logo.png
 permalink: /
 notification: The Singapore Standard for OAE Activities document is targeted for
   completion by Q1 2025
