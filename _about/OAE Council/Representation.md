@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: OAE Council
 ---
 <h3>The OAE Council: Co-Chairpersons</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rc4.nus.edu.sg/current-faculty/tan-lai-yong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Tan Lai Yong" src="/images/Tan_Lai_Yong__edited_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Co-chair (Private)</div><div class="isomer-card-description">Dr. Tan Lai Yong is an Adjunct Associate Professor with College of Alice &amp; Peter Tan, National University of Singapore (NUS). A medical doctor and community advocate, he chaired MOE's Advisory Panel for Outdoor Adventure Learning (OAL) from Feb 2016 to Feb 2019.</div><div class="isomer-card-link">More about Dr. Tan</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rc4.nus.edu.sg/current-faculty/tan-lai-yong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr. Tan Lai Yong" src="/images/Tan_Lai_Yong__edited_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Co-chair (Private)</div><div class="isomer-card-description">Dr. Tan Lai Yong, a medical doctor and community advocate, is an Adjunct Associate Professor at the College of Alice &amp; Peter Tan, NUS. He leads NUS students on experiential visits to countries like Botswana, China, and India to explore diverse sociocultural environments.</div><div class="isomer-card-link">More about Dr. Tan</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sg.linkedin.com/in/davidxchua" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -15,10 +15,10 @@ third_nav_title: OAE Council
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Co-Chair (Govt)</div>
-<div class="isomer-card-description">David Chua is the inaugural Chief Executive of National Youth Council
-(NYC) since 2015. He currently co-chairs the Pedagogy &amp; Programming
-Workstream and Human Resource &amp; Finance Workstream for the National
-OAE Masterplan under the MOE-MCCY Steering Committee.</div>
+<div class="isomer-card-description">David Chua, the inaugural Chief Executive of the National Youth Council
+(NYC) since 2015, is committed to expanding developmental opportunities
+and pathways for young Singaporeans, ensuring equal and fair access to
+these networks. He also serves as the Chairman of the 'SCAPE' Board.</div>
 <div class="isomer-card-link">More about Mr. David Chua</div>
 </div>
 </a>
