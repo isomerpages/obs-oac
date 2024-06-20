@@ -5,8 +5,8 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/sharper_logo.png
 permalink: /
-notification: The Singapore Standard for OAE Activities document is targeted for
-  completion by Q1 2025
+notification: The public consultation for Singapore Standard on Management for
+  OAE Activities is open from 14 June to 15 August 2024
 sections:
   - hero:
       title: Singapore OAE
