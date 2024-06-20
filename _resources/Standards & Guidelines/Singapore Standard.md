@@ -6,6 +6,8 @@ variant: tiptap
 third_nav_title: Standards & Guidelines
 ---
 <h3><strong>Information on Singapore Standard for OAE Activities (SS OAEA)</strong></h3>
+<p><em>[The public consultation for Singapore Standard on Management for OAE Activities is open from 14 June to 15 August 2024. Click <a href="/files/Step_by_Step_guide_to_provide_comments_to_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for a step-by-step guide on providing comments.]</em>
+</p>
 <p>The SS OAEA, owned by Enterprise Singapore (<a href="https://www.enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ESG</a>), is co-convened by Outward
 Bound Singapore (<a href="https://www.nyc.gov.sg/en/obs" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and the Outdoor Learning
 and Adventure Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>) Association. It aims to enhance the
