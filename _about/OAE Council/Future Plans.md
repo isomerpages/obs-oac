@@ -1,5 +1,5 @@
 ---
-title: Development Plans
+title: Future Plans
 permalink: /about/oae-council/plans/
 variant: tiptap
 description: ""
