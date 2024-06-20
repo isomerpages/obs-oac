@@ -16,8 +16,10 @@ variant: tiptap
 <p><strong>May 2024</strong> - Technical Committee's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>June to July 2024</strong> - <em>[The public consultation for Singapore Standard on Management for OAE Activities is open from 14 June to 15 August 2024. Click <a href="/files/Step_by_Step_guide_to_provide_comments_to_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for a step-by-step guide on providing comments.]</em>
-</p>
+<p><strong>June to July 2024</strong> - The public consultation for Singapore
+Standard on Management for OAE Activities is open from 14 June to 15 August
+2024. Click <a href="/files/Step_by_Step_guide_to_provide_comments_to_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+a step-by-step guide on providing comments.</p>
 </li>
 <li>
 <p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
