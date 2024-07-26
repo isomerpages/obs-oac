@@ -34,7 +34,7 @@ sections:
       id: announcements
       announcement_items:
         - title: OAE Practitioners Engagement Event
-          date: 29 July 2024
+          date: 29 August 2024
           announcement: An event organised by the OAE Council for OAE practitioners.
             Click   below for more details.
           link_text: SAVE THE DATE
