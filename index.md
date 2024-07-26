@@ -35,10 +35,10 @@ sections:
       announcement_items:
         - title: OAE Practitioners Engagement Event
           date: 29 July 2024
-          announcement: An event organised by the OAE Council for OAE practitioners. Click
-            for more details.
-          link_text: ""
-          link_url: ""
+          announcement: An event organised by the OAE Council for OAE practitioners.
+            Click   below for more details.
+          link_text: SAVE THE DATE
+          link_url: https://www.singaporeoae.sg/media-room/events/
   - resources:
       title: Latest Happenings
       id: resources
