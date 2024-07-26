@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OAE Engagement Event</p>
+<p>OAE Practitioners Engagement Event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Save The Date!</p>
