@@ -29,6 +29,16 @@ sections:
       alignment: left
       backgroundColor: gray
       url: https://www.enterprisesg.gov.sg/Grow-Your-Business/boost-capabilities/quality-and-standards/comment-on-draft-standards
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Engagement Event
+          date: 29 July 2024
+          announcement: An event organised by the OAE Council for freelancers and
+            practitioners. Click here for more details.
+          link_text: ""
+          link_url: ""
   - resources:
       title: Latest Happenings
       id: resources
