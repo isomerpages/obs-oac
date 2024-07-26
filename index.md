@@ -33,10 +33,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Engagement Event
+        - title: OAE Practitioners Engagement Event
           date: 29 July 2024
-          announcement: An event organised by the OAE Council for freelancers and
-            practitioners. Click here for more details.
+          announcement: An event organised by the OAE Council for OAE practitioners. Click
+            for more details.
           link_text: ""
           link_url: ""
   - resources:
