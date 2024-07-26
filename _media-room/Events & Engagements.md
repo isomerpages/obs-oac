@@ -24,7 +24,6 @@ variant: tiptap
 <p>OAE Practitioners Engagement Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Save The Date!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OAE_Engagement_Teaser_1.jpg">
 </div>
