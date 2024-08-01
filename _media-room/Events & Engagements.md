@@ -25,8 +25,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OAE_Engagement_Teaser_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OAE Engagement Teaser 2" src="/images/OAE_Engagement_Teaser_2.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Registration Link</p>
+<p><a href="https://go.gov.sg/oaecouncilbeyondppe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oaecouncilbeyondppe</a>
+</p>
 </td>
 </tr>
 </tbody>

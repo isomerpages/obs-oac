@@ -37,7 +37,7 @@ sections:
           date: 29 August 2024
           announcement: An event organised by the OAE Council for OAE practitioners.
             Click   below for more details.
-          link_text: SAVE THE DATE
+          link_text: Register Now!
           link_url: https://www.singaporeoae.sg/media-room/events/
   - resources:
       title: Latest Happenings
