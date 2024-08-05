@@ -39,6 +39,13 @@ sections:
             Click   below for more details.
           link_text: Register Now!
           link_url: https://www.singaporeoae.sg/media-room/events/
+        - title: OAE Council Professional Development Research Study
+          date: 05 August 2024
+          announcement: The Outdoor Adventure Education (OAE) Council is embarking on a
+            research study aimed at gathering insights into the needs and issues
+            of Singapore's OAE sector.
+          link_text: Click here for more information of this research study.
+          link_url: https://www.singaporeoae.sg/resources/learninghub/insights/https://www.singaporeoae.sg/resources/learninghub/insights/
   - resources:
       title: Latest Happenings
       id: resources
