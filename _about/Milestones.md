@@ -39,16 +39,17 @@ a step-by-step guide on providing comments.</p>
 <p><strong>February 2024</strong> - Procurement Preparation (Completed)</p>
 </li>
 <li>
-<p><strong>Target July 2024</strong> - Award Contract</p>
+<p><strong>July 2024</strong> - Award Contract (Completed)</p>
 </li>
 <li>
-<p><strong>Target August 2024</strong> - Commence Research</p>
+<p><strong>August 2024</strong> - Commence Research</p>
 </li>
 <li>
 <p><strong>Target January 2025</strong> - Complete Research</p>
 </li>
 </ul>
-<p>There were no bidders from the last procurement exercise in Nov 2023.</p>
+<p>Sign up <a href="https://go.gov.sg/sgoaestudy" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+you would like to participate in this research study.</p>
 <p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page.</a>
 </p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
