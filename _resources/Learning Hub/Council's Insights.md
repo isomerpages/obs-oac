@@ -32,8 +32,10 @@ wage model for the sector.</p>
 and recommendations to support the growth, development, and sustainability
 of the OAE sector, ensuring a thriving and rewarding career path for professionals
 in the field.</p>
-<p><a href="/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this study.</a>
+<p><a href="https://www.singaporeoae.sg/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this research study.</a>
 </p>
+<p>Sign up <a href="https://go.gov.sg/sgoaestudy" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+you would like to participate in this research study.</p>
 <hr>
 <h4>Archived Findings</h4>
 <table style="minWidth: 50px">
