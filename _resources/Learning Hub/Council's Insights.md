@@ -23,7 +23,7 @@ aims to identify and enhance the careers of OAE professionals. It will
 establish training and development pathways aligned with validated competency
 maps. It will devise strategies to attract and retain professionals in
 the industry, and uncover transferable roles in parallel industries.</p>
-<p>Lastly, the study may look into <strong>salary and remuneration.</strong> It
+<p>Lastly, the study will look into <strong>salary and remuneration.</strong> It
 will compare the salaries of full-time and freelance OAE professionals
 to those in similar local sectors. It will also propose a competency-based
 salary structure, and assess the feasibility and effects of a progressive
@@ -32,8 +32,10 @@ wage model for the sector.</p>
 and recommendations to support the growth, development, and sustainability
 of the OAE sector, ensuring a thriving and rewarding career path for professionals
 in the field.</p>
-<p><a href="/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this study.</a>
+<p><a href="https://www.singaporeoae.sg/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this research study.</a>
 </p>
+<p>Sign up <a href="https://go.gov.sg/sgoaestudy" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+you would like to participate in this research study.</p>
 <hr>
 <h4>Archived Findings</h4>
 <table style="minWidth: 50px">
