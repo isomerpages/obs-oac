@@ -44,7 +44,7 @@ sections:
           announcement: The Outdoor Adventure Education (OAE) Council is embarking on a
             research study aimed at gathering insights into the needs and issues
             of Singapore's OAE sector.
-          link_text: Click here for more information of this research study.
+          link_text: Click here to learn more and participate in this  research study.
           link_url: https://www.singaporeoae.sg/resources/learninghub/insights/https://www.singaporeoae.sg/resources/learninghub/insights/
   - resources:
       title: Latest Happenings
