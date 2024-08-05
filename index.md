@@ -46,7 +46,7 @@ sections:
             of Singapore's OAE sector.
           link_text: Click here to learn more about and participate in this research
             study.
-          link_url: https://www.singaporeoae.sg/resources/learninghub/insights/https://www.singaporeoae.sg/resources/learninghub/insights/
+          link_url: https://www.singaporeoae.sg/resources/learninghub/insights/
   - resources:
       title: Latest Happenings
       id: resources
