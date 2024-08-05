@@ -23,7 +23,7 @@ aims to identify and enhance the careers of OAE professionals. It will
 establish training and development pathways aligned with validated competency
 maps. It will devise strategies to attract and retain professionals in
 the industry, and uncover transferable roles in parallel industries.</p>
-<p>Lastly, the study may look into <strong>salary and remuneration.</strong> It
+<p>Lastly, the study will look into <strong>salary and remuneration.</strong> It
 will compare the salaries of full-time and freelance OAE professionals
 to those in similar local sectors. It will also propose a competency-based
 salary structure, and assess the feasibility and effects of a progressive
