@@ -21,6 +21,9 @@ learning outcomes that promote personal growth and skill development.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o8CbIYTEob8?si=hg28QwIibB4LMk7V"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fqQiyM06qM4?si=_gh2bJdUASrcsQtm"></iframe>
+</div>
 <h4><strong>Outward Bound Singapore Instructor (OBS)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xOPlalbQ_UE?si=9QQa0BPC3zn2Oy_T"></iframe>
