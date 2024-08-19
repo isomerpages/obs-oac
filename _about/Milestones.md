@@ -16,10 +16,9 @@ variant: tiptap
 <p><strong>May 2024</strong> - Technical Committee's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>June to August 2024</strong> - The public consultation for Singapore
-Standard on Management for OAE Activities is open from 14 June to 15 August
-2024. Click <a href="/files/Step_by_Step_guide_to_provide_comments_to_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-a step-by-step guide on providing comments.</p>
+<p><strong>June to August 2024</strong> - The public consultation for the
+Singapore Standard on Management for OAE Activities concluded on 15 August
+2024. (Completed)</p>
 </li>
 <li>
 <p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
