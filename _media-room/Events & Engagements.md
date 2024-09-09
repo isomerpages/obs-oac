@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Upcoming</h4>
+<h4>Past</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -28,33 +29,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="OAE Engagement Teaser 2" src="/images/OAE_Engagement_Teaser_2.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Event Registration Link</p>
-<p><a href="https://go.gov.sg/oaecouncilbeyondppe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oaecouncilbeyondppe</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Past</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Details</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
