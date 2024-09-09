@@ -32,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: OAE Practitioners Engagement Event
-          date: 29 August 2024
-          announcement: An event organised by the OAE Council for OAE practitioners.
-            Click   below for more details.
-          link_text: Register Now!
-          link_url: https://www.singaporeoae.sg/media-room/events/
         - title: OAE Council Professional Development Research Study
           date: 05 August 2024
           announcement: The Outdoor Adventure Education (OAE) Council is embarking on a
