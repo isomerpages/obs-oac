@@ -5,8 +5,7 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/sharper_logo.png
 permalink: /
-notification: The public consultation for Singapore Standard on Management for
-  OAE Activities is open from 14 June to 15 August 2024
+notification: The OAE Professional Development Research Study is currently ongoing.
 sections:
   - hero:
       title: Singapore OAE
@@ -33,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: OAE Practitioners Engagement Event
-          date: 29 August 2024
-          announcement: An event organised by the OAE Council for OAE practitioners.
-            Click   below for more details.
-          link_text: Register Now!
-          link_url: https://www.singaporeoae.sg/media-room/events/
         - title: OAE Council Professional Development Research Study
           date: 05 August 2024
           announcement: The Outdoor Adventure Education (OAE) Council is embarking on a
