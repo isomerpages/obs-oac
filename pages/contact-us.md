@@ -27,5 +27,11 @@ contacts:
       - email: OAE_Council@mccy.gov.sg
       - other: This email is managed by the OAE Council Secretariat Team
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Keep up to date with the latest OAE resources and happenings in
+          Singapore!
+    title: Grow Your OAE Knowledge
 feedback: ""
 ---
