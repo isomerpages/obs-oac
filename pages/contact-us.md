@@ -32,6 +32,6 @@ contacts:
       - email: ""
       - other: Keep up to date with the latest OAE resources and happenings in
           Singapore!
-    title: Grow Your OAE Knowledge
+    title: Join Us & Grow Your OAE Knowledge
 feedback: ""
 ---
