@@ -52,6 +52,6 @@ sections:
         Singapore!
       button: click here now
       url: https://www.singaporeoae.sg/mailing-list/
-      image: /images/oae_website.png
+      image: /images/oae_website__M_.png
       alt: Image alt text
 ---
