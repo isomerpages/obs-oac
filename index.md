@@ -45,8 +45,7 @@ sections:
       id: resources
       button: See more
   - infopic:
-      title: Climb onboard and Join our Mailing List
-      subtitle: Add an image and text
+      title: Climb onboard and Join the OAE Mailing List
       id: infopic
       description: Keep up to date with the latest OAE resources and happenings in
         Singapore!
