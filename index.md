@@ -44,4 +44,12 @@ sections:
       title: Latest Happenings
       id: resources
       button: See more
+  - infopic:
+      title: Climb onboard the OAE Mailing List
+      id: infopic
+      description: Stay informed on the latest OAE updates and upcoming events!
+      button: join now
+      url: https://www.singaporeoae.sg/mailing-list/
+      image: /images/oae_website__M3_.png
+      alt: Image alt text
 ---

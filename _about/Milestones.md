@@ -47,8 +47,8 @@ Singapore Standard on Management for OAE Activities concluded on 15 August
 <p><strong>Target January 2025</strong> - Complete Research</p>
 </li>
 </ul>
-<p>Sign up <a href="https://go.gov.sg/sgoaestudy" rel="noopener noreferrer nofollow" target="_blank">here</a> if
-you would like to participate in this research study.</p>
+<p>Survey has closed for the Research Study. Please refer to this space for
+future updates.</p>
 <p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page.</a>
 </p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
