@@ -40,6 +40,15 @@ sections:
           link_text: Click here to learn more about and participate in this research
             study.
           link_url: https://www.singaporeoae.sg/resources/learninghub/insights
+        - title: Advisory On Managing The Effects of Adverse Weather on OAE Activities in
+            Singapore
+          date: 18 October 2024
+          announcement: The advisory aims to provide a basic understanding of weather
+            patterns in Singapore and offer practical guidance on identifying
+            weather-related hazards along with corresponding mitigation
+            measures.
+          link_text: ""
+          link_url: ""
   - resources:
       title: Latest Happenings
       id: resources
