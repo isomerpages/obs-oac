@@ -8,7 +8,9 @@ description: ""
 image: /images/OAE_Council_Favicon.png
 variant: tiptap
 ---
-<p><a href="/files/oae_council_advisory_on_adverse_weather_for_oae_programme_providers.pdf" rel="noopener nofollow" target="_blank">Download: Advisory On Managing The Effects of Adverse Weather on OAE Activities in Singapore</a>
+<p><a href="/files/oae_council_advisory_on_adverse_weather_for_oae_programme_providers.pdf" rel="noopener nofollow" target="_blank">Download: </a>
+<a href="/files/Folio_1__OAE_Council_Advisory_on_Adverse_Weather_for_OAE_Programme_Providers__Revised_.pdf" rel="noopener nofollow" target="_blank">OAE Council Advisory on Managing the Effects of Adverse Weather on OAE
+Activities in Singapore</a>
 </p>
 <p>In Singapore, intensifying bad weather events pose significant challenges
 for outdoor adventure education (OAE) programmes, necessitating robust
