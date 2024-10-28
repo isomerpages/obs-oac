@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Standards & Guidelines
 ---
 <h3>Advisories</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -33,6 +38,18 @@ third_nav_title: Standards & Guidelines
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>15 Oct 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADVISORY FOR OAE PROGRAMME PROVIDERS ON MANAGING THE EFFECT OF ADVERSE
+WEATHER ON ACTIVITIES IN SINGAPORE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +62,12 @@ third_nav_title: Standards & Guidelines
 </tbody>
 </table>
 <h3>Best Practices</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
