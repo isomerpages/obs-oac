@@ -31,7 +31,7 @@ private sector providers, outdoor practitioners and relevant experts from
 academia, industrial safety and professional development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_JPG_90_Update___Shane_Kwok_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_PNG_Update_Shane_Kwok_.png">
 </div>
 <p><strong>Updates:</strong>
 </p>
