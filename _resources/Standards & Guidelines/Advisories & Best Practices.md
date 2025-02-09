@@ -41,11 +41,12 @@ third_nav_title: Standards & Guidelines
 <p>15 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADVISORY FOR OAE PROGRAMME PROVIDERS ON MANAGING THE EFFECT OF ADVERSE
-WEATHER ON ACTIVITIES IN SINGAPORE</p>
+<p>Advisory for OAE Programme Providers on Managing the Effects of Adverse
+Weather on Activities in Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/oae_council_advisory_on_adverse_weather_for_oae_programme_providers.pdf" rel="noopener nofollow" target="_blank">Managing the Effects of Adverse Weather on Activities</a>
+</p>
 </td>
 </tr>
 <tr>
