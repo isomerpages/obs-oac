@@ -45,7 +45,7 @@ third_nav_title: Standards & Guidelines
 Weather on Activities in Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/oae_council_advisory_on_adverse_weather_for_oae_programme_providers.pdf" rel="noopener nofollow" target="_blank">Managing the Effects of Adverse Weather on Activities</a>
+<p><a href="/files/Advisory_Managing_the_effects_of_Adverse_Weather_Oct_24.pdf" rel="noopener nofollow" target="_blank">Managing the Effects of Adverse Weather on Activities</a>
 </p>
 </td>
 </tr>
