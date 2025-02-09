@@ -21,10 +21,10 @@ Singapore Standard on Management for OAE Activities concluded on 15 August
 2024. (Completed)</p>
 </li>
 <li>
-<p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
+<p><strong>October 2024</strong> - Standards Committee's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>Target March 2025</strong> - Publication</p>
+<p><strong>February 2025</strong> - Published (Purchase at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a>!)</p>
 </li>
 </ul>
 <p></p>
