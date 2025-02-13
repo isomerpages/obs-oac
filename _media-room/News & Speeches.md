@@ -245,7 +245,7 @@ Youth &amp; Second Minister for Law at the National Outdoor Education Conference
 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/nov/national-outdoor-education-conference-2022-on-22-september-2022" rel="noopener noreferrer nofollow" target="_blank">MCCY: Minister Edwin Tong's Opening Speech NOAC 2022</a>
+<p><a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/nov/national-outdoor-education-conference-2022-on-22-september-2022" rel="noopener noreferrer nofollow" target="_blank">MCCY: Minister Edwin Tong's Opening Speech NOEC 2022</a>
 </p>
 </td>
 </tr>

@@ -5,7 +5,8 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/sharper_logo.png
 permalink: /
-notification: The OAE Professional Development Research Study is currently ongoing.
+notification: The Singapore Standard SS 710:2024 Code of Practice for OAE
+  activities has been published!
 sections:
   - hero:
       title: Singapore OAE

@@ -31,7 +31,7 @@ private sector providers, outdoor practitioners and relevant experts from
 academia, industrial safety and professional development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OAE Council Representation" src="/images/Representation_Asset___Updated_Jean.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_PNG_Update_Shane_Kwok_.png">
 </div>
 <p><strong>Updates:</strong>
 </p>
@@ -47,8 +47,13 @@ as MOE Deputy Director of Physical, Sports and Outdoor Education Branch
 was appointed to replace Ms. Delphine Fong as Sports Singapore's (SportSG)
 representative.</p>
 </li>
+<li>
+<p><u>12 Dec 2024</u> - Mr. Shane Kwok, MOE Director of Physical, Sports and
+Outdoor Education Branch (PSOEB), was appointed to replace Mr. Krishnan
+Aravinthan as MOE's representative in the ex-officio capacity.</p>
+</li>
 </ul>
-<hr>
+<p></p>
 <h4>Council Sub-Committees</h4>
 <p>The Council has organised the work into three distinct areas: <strong>Standards and Certification, Professional Development and Safety, Compliance and Promotion.</strong> Each
 of these areas is led by co-leads who oversee the respective sub-committees,
@@ -75,7 +80,7 @@ ensuring effective management and coordination within each workstream.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Krishnan Aravinthan</p>
+<p>Mr. Shane Kwok</p>
 </li>
 <li>
 <p>Mr. Delane Lim</p>

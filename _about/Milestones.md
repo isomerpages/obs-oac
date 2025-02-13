@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>Workstream: Standards and Certification</strong></h3>
 <p><em>Design a holistic OAE standards adoption strategy through the establishment of OAE Standards documents, the creation of a certification process, and establishing a strong standards adoption support eco-system.&nbsp;</em>
 </p>
-<h5><em><u>Singapore Standard for Outdoor Adventure Education Activities (</u></em><a href="/resources/standards-and-guidelines/singapore-standard/" rel="noopener noreferrer nofollow" target="_blank">SS OAEA</a><em><u>)</u></em></h5>
+<h5><em><u>Singapore Standard Code of Practice for Outdoor Adventure Education Activities (</u></em><a href="/resources/standards-and-guidelines/singapore-standard/" rel="noopener noreferrer nofollow" target="_blank">SS OAEA</a><em><u>)</u></em></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>March 2024</strong> - Working Group's Approval (Completed)</p>
@@ -21,10 +21,11 @@ Singapore Standard on Management for OAE Activities concluded on 15 August
 2024. (Completed)</p>
 </li>
 <li>
-<p><strong>Target October 2024</strong> - Standards Committee's Approval</p>
+<p><strong>October 2024</strong> - Standards Committee's Approval (Completed)</p>
 </li>
 <li>
-<p><strong>Target March 2025</strong> - Publication</p>
+<p><strong>February 2025</strong> - Published (Now available for purchase
+at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a>!)</p>
 </li>
 </ul>
 <p></p>
