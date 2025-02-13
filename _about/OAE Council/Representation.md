@@ -48,8 +48,8 @@ was appointed to replace Ms. Delphine Fong as Sports Singapore's (SportSG)
 representative.</p>
 </li>
 <li>
-<p><u>12 Dec 2024</u> - Mr Shane Kwok, Director of Physical, Sports &amp;
-Outdoor Education Branch (PSOEB), MOE, was appointed to replace Mr Krishnan
+<p><u>12 Dec 2024</u> - Mr. Shane Kwok, MOE Director of Physical, Sports and
+Outdoor Education Branch (PSOEB), was appointed to replace Mr. Krishnan
 Aravinthan as MOE's representative in the ex-officio capacity.</p>
 </li>
 </ul>
