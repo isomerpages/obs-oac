@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Standards & Guidelines
 ---
 <h3><strong>Information on Singapore Standard Code of Practice for OAE Activities (SS OAEA)</strong></h3>
-<p><em>[The SS 710:2024 Code of Practice for OAE Activities is available for purchase at </em>
+<p><em>[The SS 710:2024 Code of Practice for OAE Activities is now available for purchase at </em>
 <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a><em>.]</em>
 </p>
 <p>The SS OAEA, owned by Enterprise Singapore (<a href="https://www.enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ESG</a>), is co-convened by Outward
