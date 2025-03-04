@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Outdoor Education Conference (NOEC) 2025</p>
+<p>National Outdoor Education Conference 2025 (NOEC 2025)</p>
 <p>(Please refer to eDM for details.)</p>
 </td>
 <td rowspan="1" colspan="1">
