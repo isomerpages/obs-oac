@@ -33,6 +33,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Register now for the National Outdoor Education Conference (NOEC) 2025!
+          date: 17 April 2025
+          announcement: "Join us at NOEC 2025 to explore key developments in Singapore's
+            Outdoor Adventure Education (OAE) sector.  Conference Details: 17
+            April, 9am to 5.30pm, Raffles Institution"
+          link_text: Follow this link to register!
+          link_url: www.google.com
         - title: OAE Council Professional Development Research Study
           date: 05 August 2024
           announcement: The Outdoor Adventure Education (OAE) Council is embarking on a
