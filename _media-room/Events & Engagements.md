@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h4>Upcoming</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Outdoor Education Conference (NOEC) 2025</p>
+<p>(Please refer to eDM for details.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 eDM" src="/images/V8__NOE_CONFERENCE_2025_EDM.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Past</h4>
 <table style="minWidth: 50px">
 <colgroup>
