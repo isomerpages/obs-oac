@@ -109,7 +109,8 @@ Best Practices' document for OAE providers.</p>
 for OAE providers.</p>
 </li>
 <li>
-<p><strong>Upcoming</strong>: TBC</p>
+<p><strong>October 2024</strong>: Advisory On Managing The Effects of Adverse
+Weather on OAE Activities</p>
 </li>
 </ul>
 <p></p>
