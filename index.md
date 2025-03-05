@@ -37,9 +37,8 @@ sections:
             2025)!
           date: 17 April 2025
           announcement: "Join us at NOEC 2025 to explore key developments in Singapore's
-            Outdoor Adventure Education (OAE) sector. Conference Details: 17
-            April, 9am to 5.30pm, Raffles Institution. Find out more under
-            Latest Happenings."
+            OAE sector. Conference Details: 17 April, 9am to 5.30pm, Raffles
+            Institution. Find out more under Latest Happenings."
           link_text: Follow this link to register!
           link_url: http://www.go.gov.sg/noec2025
         - title: The Singapore Standard for OAE Activities has been published!
