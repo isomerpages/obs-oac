@@ -13,8 +13,8 @@ Your commitment to professional development today shapes the future of
 our OAE sector.</p>
 <hr>
 <h4>Professional Development Framework</h4>
-<p>The Council is commissioning a research study on the OAE sector and the
-findings will be available by end 2024. This will guide the eventual Professional
+<p>The Council has completed a research study on the OAE sector, and the
+findings will be available by Apr 2025. This will guide the eventual Professional
 Development Framework for Singapore's OAE sector.</p>
 <p>Please refer to <a href="/about/milestones/" rel="noopener noreferrer nofollow" target="_blank">Milestones Page </a>for
 progress updates.</p>
