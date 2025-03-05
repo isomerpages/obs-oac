@@ -42,14 +42,17 @@ at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-
 <p><strong>July 2024</strong> - Award Contract (Completed)</p>
 </li>
 <li>
-<p><strong>August 2024</strong> - Commence Research</p>
+<p><strong>August 2024</strong> - Commence Research (Completed)</p>
 </li>
 <li>
-<p><strong>Target January 2025</strong> - Complete Research</p>
+<p><strong>January 2025</strong> - Complete Research (Completed)</p>
+</li>
+<li>
+<p><strong>April 2025</strong> - Publish Research Findings</p>
 </li>
 </ul>
-<p>Survey has closed for the Research Study. Please refer to this space for
-future updates.</p>
+<p>The Research Study has been completed. Please watch this space for the
+findings when they are published.</p>
 <p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page.</a>
 </p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
