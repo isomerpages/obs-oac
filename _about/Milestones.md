@@ -48,7 +48,7 @@ at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-
 <p><strong>January 2025</strong> - Complete Research (Completed)</p>
 </li>
 <li>
-<p><strong>April 2025</strong> - Publish Research Findings</p>
+<p><strong>Target April 2025</strong> - Publish Research Findings</p>
 </li>
 </ul>
 <p>The Research Study has been completed. Please watch this space for the
@@ -109,8 +109,8 @@ Best Practices' document for OAE providers.</p>
 for OAE providers.</p>
 </li>
 <li>
-<p><strong>October 2024</strong>: Advisory On Managing The Effects of Adverse
-Weather on OAE Activities</p>
+<p><strong>October 2024</strong>: Issed 'Advisory On Managing The Effects
+of Adverse Weather on OAE Activities'.</p>
 </li>
 </ul>
 <p></p>
