@@ -38,10 +38,11 @@ sections:
           date: 17 April 2025
           announcement: "Join us at NOEC 2025 to explore key developments in Singapore's
             Outdoor Adventure Education (OAE) sector. Conference Details: 17
-            April, 9am to 5.30pm, Raffles Institution"
+            April, 9am to 5.30pm, Raffles Institution. Find out more under
+            Latest Happenings."
           link_text: Follow this link to register!
           link_url: http://www.go.gov.sg/noec2025
-        - title: The Singapore Standards for OAE Activities has been published!
+        - title: The Singapore Standard for OAE Activities has been published!
           date: 03 February 2025
           announcement: The SS 710:2024 Code of Practice for OAE Activities aims to
             enhance the quality and safety of Outdoor Adventure Education
@@ -50,8 +51,8 @@ sections:
           link_url: https://www.singaporeoae.sg/resources/standards-and-guidelines/singapore-standard/
         - title: OAE Council Professional Development Research Study
           date: 28 February 2025
-          announcement: The OAE Council has completed a research study to gathering
-            insights into the needs and issues of Singapore's OAE sector.
+          announcement: The OAE Council has completed a research study to gather insights
+            into the professional development of Singapore's OAE sector.
             Findings will be published in April 2025.
           link_text: For more info, follow this link.
           link_url: https://www.singaporeoae.sg/resources/learninghub/insights
