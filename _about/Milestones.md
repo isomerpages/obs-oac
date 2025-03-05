@@ -109,7 +109,7 @@ Best Practices' document for OAE providers.</p>
 for OAE providers.</p>
 </li>
 <li>
-<p><strong>October 2024</strong>: Issed 'Advisory On Managing The Effects
+<p><strong>October 2024</strong>: Issued 'Advisory on Managing the Effects
 of Adverse Weather on OAE Activities'.</p>
 </li>
 </ul>
