@@ -17,9 +17,7 @@ our OAE sector.</p>
 Education sector, based on our Professional Development study and sector
 engagement. We will be seeking stakeholder input to refine this framework,
 ensuring it meets the needs of our OAE community.</p>
-<p>Please refer to <a href="/about/milestones/" rel="noopener noreferrer nofollow" target="_blank">Milestones Page </a>for
-progress updates.</p>
-<p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
+<p>Details of the research and findings can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
 <hr>
 <h4>Skills Framework - Outdoor Leadership</h4>
 <div class="isomer-image-wrapper">
