@@ -12,7 +12,7 @@ to explore key developments in Singapore's Outdoor Adventure Education
 (OAE) sector. Participate in engagements on the sector's transformation
 and attend workshop on interpreting and implementing the new Singapore
 Standard for OAE Activities (SS710:2024).</p>
-<p><strong>Date: 17 April </strong>
+<p><strong>Date: 17 April</strong>
 </p>
 <p><strong>Time: 9am to 5.30pm</strong>
 </p>
