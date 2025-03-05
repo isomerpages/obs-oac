@@ -40,7 +40,7 @@ sections:
             Outdoor Adventure Education (OAE) sector. Conference Details: 17
             April, 9am to 5.30pm, Raffles Institution"
           link_text: Follow this link to register!
-          link_url: www.go.gov.sg/noec2025
+          link_url: http://www.go.gov.sg/noec2025
         - title: The Singapore Standards for OAE Activities has been published!
           date: 03 February 2025
           announcement: The SS 710:2024 Code of Practice for OAE Activities aims to
