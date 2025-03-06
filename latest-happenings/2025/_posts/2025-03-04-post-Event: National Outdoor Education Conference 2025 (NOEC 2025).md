@@ -20,7 +20,8 @@ Standard for OAE Activities (SS 710:2024).</p>
 </p>
 <p><strong>Registration Link: <a href="http://go.gov.sg/noec2025" rel="noopener nofollow" target="_blank">Click Here to Register!</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 eDM" src="/images/V8__NOE_CONFERENCE_2025_EDM.png">
+<img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 EDM" src="/images/Web__NOE_CONFERENCE_2025_EDM.png">
 </div>
 <p></p>
