@@ -16,15 +16,13 @@ variant: tiptap
 <p>National Outdoor Education Conference 2025 (NOEC 2025)</p>
 <p>(Please refer to eDM for details.)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://go.gov.sg/noec2025"><img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 EDM" src="/images/Web__NOE_CONFERENCE_2025_EDM.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 eDM" src="/images/V8__NOE_CONFERENCE_2025_EDM.png">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <h4>Past</h4>
 <table style="minWidth: 50px">
 <colgroup>
