@@ -35,7 +35,7 @@ and recommendations to support the growth, development, and sustainability
 of the OAE sector, ensuring a thriving and rewarding career path for professionals
 in the field.</p>
 <p></p>
-<p><strong>Research findings (under construction)</strong>
+<p><strong>Key Research findings (under construction)</strong>
 </p>
 <p></p>
 <hr>
