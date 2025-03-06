@@ -40,7 +40,7 @@ sections:
             OAE sector. Conference Details: 17 April, 9am to 5.30pm, Raffles
             Institution. Find out more under Latest Happenings."
           link_text: Register here!
-          link_url: http://www.go.gov.sg/noec2025
+          link_url: http://go.gov.sg/noec2025
         - title: The Singapore Standard for OAE Activities has been published!
           date: 03 February 2025
           announcement: The SS 710:2024 Code of Practice for OAE Activities aims to
