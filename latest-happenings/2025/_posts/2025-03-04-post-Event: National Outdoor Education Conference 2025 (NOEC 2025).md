@@ -10,7 +10,7 @@ variant: tiptap
 <p>Join us at the National Outdoor Education Conference 2025 (NOEC 2025)
 to explore key developments in Singapore's Outdoor Adventure Education
 (OAE) sector. Participate in engagements on the sector's transformation
-and attend workshop on interpreting and implementing the new Singapore
+and attend workshops on interpreting and implementing the new Singapore
 Standard for OAE Activities (SS 710:2024).</p>
 <p><strong>Date: 17 April 2025</strong>
 </p>
