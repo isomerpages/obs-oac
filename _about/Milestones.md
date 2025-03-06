@@ -27,6 +27,10 @@ Singapore Standard on Management for OAE Activities concluded on 15 August
 <p><strong>February 2025</strong> - Published (Now available for purchase
 at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a>!)</p>
 </li>
+<li>
+<p><strong>Target April 2025</strong> - Workshops on interpreting and implementing
+at NOEC 2025</p>
+</li>
 </ul>
 <p></p>
 <h3><strong>Workstream: Professional Development</strong></h3>
@@ -48,13 +52,12 @@ at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-
 <p><strong>January 2025</strong> - Complete Research (Completed)</p>
 </li>
 <li>
-<p><strong>Target April 2025</strong> - Publish Research Findings</p>
+<p><strong>Target April 2025</strong> - Publish Key Research Findings</p>
 </li>
 </ul>
-<p>The Research Study has been completed. Please watch this space for the
-findings when they are published.</p>
-<p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page.</a>
-</p>
+<p>The Research Study has been completed, and the key findings will be published
+on the <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page </a>in
+April 2025.</p>
 <p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
 </p>
 <p></p>
