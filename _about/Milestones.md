@@ -55,10 +55,9 @@ at NOEC 2025</p>
 <p><strong>Target April 2025</strong> - Publish Key Research Findings</p>
 </li>
 </ul>
-<p>The Research Study has been completed. <em>Details of the research and key findings (under construction) can be found on the </em>
-<a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
-<p><em>A draft of the OAE Competency Framework will be available on the </em>
-<a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page</a>soon.</p>
+<p>The Research Study has been completed. Details of the research and key
+findings (under construction) can be found on the <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
+<p>A draft of the OAE Competency Framework will be available on the <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page </a>soon.</p>
 <p></p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <p><em>Institute an OAE sector-specific Safety Compliance Monitoring and Promotional Plan by establishing effective compliance monitoring processes and developing a safety promotional plan.&nbsp;</em>
