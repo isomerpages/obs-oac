@@ -27,6 +27,10 @@ Singapore Standard on Management for OAE Activities concluded on 15 August
 <p><strong>February 2025</strong> - Published (Now available for purchase
 at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a>!)</p>
 </li>
+<li>
+<p><strong>Target April 2025</strong> - Workshops on interpreting and implementing
+at NOEC 2025</p>
+</li>
 </ul>
 <p></p>
 <h3><strong>Workstream: Professional Development</strong></h3>
@@ -42,18 +46,18 @@ at <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-
 <p><strong>July 2024</strong> - Award Contract (Completed)</p>
 </li>
 <li>
-<p><strong>August 2024</strong> - Commence Research</p>
+<p><strong>August 2024</strong> - Commence Research (Completed)</p>
 </li>
 <li>
-<p><strong>Target January 2025</strong> - Complete Research</p>
+<p><strong>January 2025</strong> - Complete Research (Completed)</p>
+</li>
+<li>
+<p><strong>Target April 2025</strong> - Publish Key Research Findings</p>
 </li>
 </ul>
-<p>Survey has closed for the Research Study. Please refer to this space for
-future updates.</p>
-<p>Click here to jump to <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page.</a>
-</p>
-<p>Details of the research can be found on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>
-</p>
+<p>The Research Study has been completed. Details of the research and key
+findings (under construction) can be found on the <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
+<p>A draft of the OAE Competency Framework will be available on the <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page </a>soon.</p>
 <p></p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <p><em>Institute an OAE sector-specific Safety Compliance Monitoring and Promotional Plan by establishing effective compliance monitoring processes and developing a safety promotional plan.&nbsp;</em>
@@ -106,7 +110,8 @@ Best Practices' document for OAE providers.</p>
 for OAE providers.</p>
 </li>
 <li>
-<p><strong>Upcoming</strong>: TBC</p>
+<p><strong>October 2024</strong>: Issued 'Advisory on Managing the Effects
+of Adverse Weather on OAE Activities'.</p>
 </li>
 </ul>
 <p></p>

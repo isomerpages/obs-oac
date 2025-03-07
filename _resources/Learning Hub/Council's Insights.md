@@ -12,7 +12,9 @@ conversation that shapes the future of outdoor adventure education. Start
 exploring now.</p>
 <hr>
 <h4>Professional Development Research Study</h4>
-<p>The Council is commissioning a research study, focusing on three key areas
+<p><strong>Details of the Research Study</strong>
+</p>
+<p>The Council has completed a research study, focusing on three key areas
 within the sector.</p>
 <p>At the <strong>macro level, </strong>the analysis aims to determine the
 sector's growth potential for businesses. It will also look at the job
@@ -32,7 +34,8 @@ wage model for the sector.</p>
 and recommendations to support the growth, development, and sustainability
 of the OAE sector, ensuring a thriving and rewarding career path for professionals
 in the field.</p>
-<p><a href="https://www.singaporeoae.sg/about/milestones" rel="noopener noreferrer nofollow" target="_blank">Click here for the milestones of this research study.</a>
+<p></p>
+<p><strong>Key Research Findings (under construction)</strong>
 </p>
 <p></p>
 <hr>
