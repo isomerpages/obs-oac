@@ -14,7 +14,7 @@ our OAE sector.</p>
 <hr>
 <h4>OAE Competency Framework (Under Construction)</h4>
 <p>The OAE Council has drafted a competency framework and will be seeking
-stakeholder input to refine this framework, ensuring it meets the needs
+stakeholders' input to refine this framework, ensuring it meets the needs
 of our OAE community.</p>
 <p>Details of the research and key findings (under construction) can be found
 on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
