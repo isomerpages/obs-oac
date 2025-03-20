@@ -25,7 +25,7 @@ on <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow"
 </div>
 <p><em><sup>Image Reference: Priest, S. Leadership Management [Online Image]. ePortfolio: Dr. Simon Priest. http://simonpriest.altervista.org/LM.html#BW</sup></em>
 </p>
-<p>The <strong>Outdoor Leadership Wall, </strong>developed by <a href="http://simonpriest.altervista.org/LM.html" rel="noopener noreferrer nofollow" target="_blank">Dr. Simon Priest</a>,
+<p>The <strong>Outdoor Leadership Wall, </strong>developed by Dr. Simon Priest,
 originated from his 1983 master's thesis on outdoor leadership. It has
 since become a commonly adopted skills framework for Outdoor Leaders.</p>
 <p></p>
