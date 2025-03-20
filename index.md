@@ -6,7 +6,8 @@ description: An official site developed by the OAE Council Singapore to provide
 image: /images/sharper_logo.png
 permalink: /
 notification: The Singapore Standard SS 710:2024 Code of Practice for OAE
-  activities has been published!
+  activities is now on sale at https://www.singaporestandardseshop.sg till 18
+  April 2025!
 sections:
   - hero:
       title: Singapore OAE
