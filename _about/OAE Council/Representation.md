@@ -29,12 +29,11 @@ these networks. He also serves as the Chairman of the 'SCAPE' Board.</div>
 19-member OAE Council is an advisory body comprising government agencies,
 private sector providers, outdoor practitioners and relevant experts from
 academia, industrial safety and professional development.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Updated Council Representation" src="/images/Representation_Asset__FA_JPG_100_Updated_Tony_Tan_.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_PNG_Update_Shane_Kwok_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_JPG_100_Updated_Lim_Leng_Er_.jpg">
 </div>
 <p><strong>Updates:</strong>
 </p>
