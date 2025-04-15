@@ -7,6 +7,47 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h2>Conference Materials</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Conference Booklet</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/NOEC_2025_Conference_Booklet__For_Dissemination_.pdf" rel="noopener nofollow" target="_blank">NOEC2025 Conference Booklet</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sector Development Roadmap (Draft)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OAE_SD_Roadmap.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OAE Competency Framework (Draft)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/For_public_consultation_redacted__OAE_Competency_Framework_caa_14_Apr.pdf" rel="noopener nofollow" target="_blank">OAE Competency Framework (Draft)</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p>Join us at the National Outdoor Education Conference 2025 (NOEC 2025)
 to explore key developments in Singapore's Outdoor Adventure Education
 (OAE) sector. Participate in engagements on the sector's transformation
