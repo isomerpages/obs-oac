@@ -41,8 +41,8 @@ complete the conference feedback form</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please <a href="go.gov.sg/oaecompetencyframework" rel="noopener nofollow" target="_blank">click here</a> to
-share your comments on the OAE Sector Development Roadmap and</p>
-<p>Competency Framework Drafts below</p>
+share your comments on the OAE Sector Development Roadmap and Competency
+Framework Drafts below</p>
 <p></p>
 </td>
 </tr>
