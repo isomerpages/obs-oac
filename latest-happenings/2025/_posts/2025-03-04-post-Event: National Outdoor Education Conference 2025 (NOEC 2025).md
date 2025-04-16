@@ -25,6 +25,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Conference Feedback Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pleease click here to pp]orivide your overall feedback for the overal
+event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Sector Development Roadmap (Draft)</strong>
 </p>
 </td>
