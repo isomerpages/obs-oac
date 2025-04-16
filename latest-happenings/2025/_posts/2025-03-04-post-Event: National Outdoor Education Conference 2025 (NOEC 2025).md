@@ -84,7 +84,8 @@ Standard for OAE Activities (SS 710:2024).</p>
 </p>
 <p><strong>Registration is closed.</strong>
 </p><a class="isomer-image-wrapper" href="http://go.gov.sg/noec2025"><img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 EDM" src="/images/Web__NOE_CONFERENCE_2025_EDM.png"></a>
-<p></p>
+<p>Please <a href="/files/Emergency_Evacuation_Briefing_NOEC_2025.pdf" rel="noopener nofollow" target="_blank">click this link </a>for
+the Emergency Evacuation Plan of the conference venue.</p>
 <p></p>
 <p></p>
 <p></p>
