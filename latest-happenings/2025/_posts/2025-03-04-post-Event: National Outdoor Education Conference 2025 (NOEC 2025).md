@@ -29,8 +29,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/noec2025feedback" rel="noopener nofollow" target="_blank">Kindly complete the conference feedback form</a></strong>
-</p>
+<p>Please <a href="https://go.gov.sg/noec2025feedback" rel="noopener nofollow" target="_blank">click here</a> to
+complete the conference feedback form</p>
+<p></p>
 </td>
 </tr>
 <tr>
