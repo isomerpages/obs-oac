@@ -47,11 +47,10 @@ share your comments on the OAE Sector Development Roadmap and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sector Development Roadmap (Draft)</strong>
+<p><strong>OAE Sector Development Roadmap (Draft)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OAE_SD_Roadmap.jpg">
 </div>
@@ -63,9 +62,6 @@ share your comments on the OAE Sector Development Roadmap and</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Please follow the link below to download the OAE Competency Framework Draft</strong>
-</p>
-<p></p>
 <p><strong><a href="/files/For_public_consultation_redacted__OAE_Competency_Framework_caa_14_Apr.pdf" rel="noopener nofollow" target="_blank">OAE Competency Framework (Draft)</a></strong>
 </p>
 </td>
