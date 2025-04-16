@@ -39,8 +39,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="" rel="noopener nofollow" target="_blank">Please click here to share your comments on the OAE Sector Development Roadmap and Competency Framework Drafts below</a></strong>
-</p>
+<p>Please <a href="go.gov.sg/oaecompetencyframework" rel="noopener nofollow" target="_blank">click here</a> to
+share your comments on the OAE Sector Development Roadmap and</p>
+<p>Competency Framework Drafts below</p>
+<p></p>
 </td>
 </tr>
 <tr>
