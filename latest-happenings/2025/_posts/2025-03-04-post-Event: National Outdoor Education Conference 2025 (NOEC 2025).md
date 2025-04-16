@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Conference Materials</h2>
+<h2><strong>Conference Materials</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,11 +25,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Conference Feedback Form</p>
+<p><strong>Conference Feedback Form</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pleease click here to pp]orivide your overall feedback for the overal
-event</p>
+<p><strong><a href="https://go.gov.sg/noec2025feedback" rel="noopener nofollow" target="_blank">Kindly complete the conference feedback form</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Public Comments Form</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="" rel="noopener nofollow" target="_blank">Please click here to share your comments on the OAE Sector Development Roadmap and Competency Framework Drafts below</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,16 +61,11 @@ event</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Please follow the link below to download the OAE Competency Framework Draft</strong>
+</p>
+<p></p>
 <p><strong><a href="/files/For_public_consultation_redacted__OAE_Competency_Framework_caa_14_Apr.pdf" rel="noopener nofollow" target="_blank">OAE Competency Framework (Draft)</a></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -78,8 +84,7 @@ Standard for OAE Activities (SS 710:2024).</p>
 </p>
 <p><strong>Registration is closed.</strong>
 </p><a class="isomer-image-wrapper" href="http://go.gov.sg/noec2025"><img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 EDM" src="/images/Web__NOE_CONFERENCE_2025_EDM.png"></a>
-<p>Please <a href="/files/Emergency_Evacuation_Briefing_NOEC_2025.pdf" rel="noopener nofollow" target="_blank">click this link </a>for
-the Emergency Evacuation Plan of the conference venue.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
