@@ -15,6 +15,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>SS 710:2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">click here</a>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Conference Booklet</p>
 </th>
@@ -85,7 +95,3 @@ Standard for OAE Activities (SS 710:2024).</p>
 </p><a class="isomer-image-wrapper" href="http://go.gov.sg/noec2025"><img style="width: 100%" height="auto" width="100%" alt="NOEC 2025 EDM" src="/images/Web__NOE_CONFERENCE_2025_EDM.png"></a>
 <p>Please <a href="/files/Emergency_Evacuation_Briefing_NOEC_2025.pdf" rel="noopener nofollow" target="_blank">click this link </a>for
 the Emergency Evacuation Plan of the conference venue.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
