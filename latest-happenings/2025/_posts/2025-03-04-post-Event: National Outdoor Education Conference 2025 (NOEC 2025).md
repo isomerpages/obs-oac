@@ -20,8 +20,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">click here</a>
-</p>
+<p>Please <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">click here </a>to
+purchase a copy of SS 710:2024</p>
 </td>
 </tr>
 <tr>
