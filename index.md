@@ -33,12 +33,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: National Outdoor Education Conference 2025 (NOEC 2025)!
-          date: 17 April 2025
-          announcement: "Join us at NOEC 2025 to explore key developments in Singapore's
-            OAE sector. Conference Details: 17 April, 9am to 5.30pm, Raffles
-            Institution. Find out more under Latest Happenings."
-          link_text: Click here for conference materials
+        - title: For Public Comment - Draft documents on OAE Sector Professional
+            Development
+          date: 24 April 2025
+          announcement: "The OAE Council is seeking public comments on 2 draft documents:
+            the OAE Sector Development Roadmap and OAE Competency Framework."
+          link_text: Click here for the draft documents.
           link_url: https://www.singaporeoae.sg/noec-2025/
         - title: The Singapore Standard for OAE Activities has been published!
           date: 03 February 2025
