@@ -70,7 +70,7 @@ purchase a copy of SS 710:2024</p>
 <p>Conference Booklet</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/NOEC_2025_Conference_Booklet__For_Dissemination_.pdf" rel="noopener nofollow" target="_blank">NOEC2025 Conference Booklet</a>
+<p><a href="/files/NOEC_2025_Conference_Booklet__For_Dissemination_.pdf" rel="noopener nofollow" target="_blank">NOEC 2025 Conference Booklet</a>
 </p>
 </th>
 </tr>
