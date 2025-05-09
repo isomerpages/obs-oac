@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>Public Comment Document</strong></h2>
+<h2><strong>Public Comment Documents:</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,7 +48,7 @@ Framework Drafts below</p>
 </tbody>
 </table>
 <p></p>
-<h2><strong>Conference Materials</strong></h2>
+<h2><strong>Conference Materials:</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
