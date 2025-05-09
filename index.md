@@ -10,7 +10,7 @@ notification: Get your SS 710:2024 Code of Practice for OAE activities now at
 sections:
   - hero:
       title: Singapore OAE
-      background: /images/2022_OBS_Outdoor_Education_Conference___0184_dark.jpg
+      background: /images/2nd_National_Outdoor_Education_Conference__172_.jpg
       subtitle: Developed by the Outdoor Adventure Education (OAE) Council Singapore
         to provide reliable resources and latest happenings in the OAE
         landscape.
