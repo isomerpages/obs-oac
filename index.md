@@ -36,7 +36,7 @@ sections:
         - title: For Public Comment - Draft documents on OAE Sector Professional
             Development
           date: 24 April 2025
-          announcement: "The OAE Council is seeking public comments on 2 draft documents:
+          announcement: "The OAE Council is seeking public comment on 2 draft documents:
             the OAE Sector Development Roadmap and OAE Competency Framework."
           link_text: Click here for the draft documents.
           link_url: https://www.singaporeoae.sg/noec-2025/
