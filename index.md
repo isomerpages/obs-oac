@@ -5,12 +5,13 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/sharper_logo.png
 permalink: /
-notification: Get your SS 710:2024 Code of Practice for OAE activities now at
-  20% discount! Valid until 30 April 2025!
+notification: The public consultation period for the draft OAE Sector
+  Development Roadmap and Competency Framework closes on 18 June. Please share
+  your inputs with us before the deadline.
 sections:
   - hero:
       title: Singapore OAE
-      background: /images/2nd_National_Outdoor_Education_Conference__172_.jpg
+      background: /images/2nd_National_Outdoor_Education_Conference__172___E_.jpg
       subtitle: Developed by the Outdoor Adventure Education (OAE) Council Singapore
         to provide reliable resources and latest happenings in the OAE
         landscape.
