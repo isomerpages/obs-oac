@@ -11,7 +11,7 @@ notification: The public consultation period for the draft OAE Sector
 sections:
   - hero:
       title: Singapore OAE
-      background: /images/2nd_National_Outdoor_Education_Conference__172___E_.jpg
+      background: /images/2nd_National_Outdoor_Education_Conference__172_.jpg
       subtitle: Developed by the Outdoor Adventure Education (OAE) Council Singapore
         to provide reliable resources and latest happenings in the OAE
         landscape.
