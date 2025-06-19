@@ -33,7 +33,7 @@ academia, industrial safety and professional development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_PNG_Update_Shane_Kwok_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Representation_Asset__FA_JPG_100_Updated_Lim_Leng_Er_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OAE Council 1st Term Representation" src="/images/Representation_Asset__FA_JPG_100_Updated_Tan_Chin_Jiat_.jpg">
 </div>
 <p><strong>Updates:</strong>
 </p>
