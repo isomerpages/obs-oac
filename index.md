@@ -6,8 +6,8 @@ description: An official site developed by the OAE Council Singapore to provide
 image: /images/sharper_logo.png
 permalink: /
 notification: The public consultation period for the draft OAE Sector
-  Development Roadmap and Competency Framework closes on 18 June. Kindly share
-  your comments with us before the deadline.
+  Development Roadmap and Competency Framework has closed. Thank you for your
+  feedback.
 sections:
   - hero:
       title: Singapore OAE
@@ -34,13 +34,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: For Public Comment - Draft documents on OAE Sector Professional
-            Development
-          date: 24 April 2025
-          announcement: "The OAE Council is seeking public comment on 2 draft documents:
-            the OAE Sector Development Roadmap and OAE Competency Framework."
-          link_text: Click here for the draft documents.
-          link_url: https://www.singaporeoae.sg/noec-2025/
         - title: The Singapore Standard for OAE Activities has been published!
           date: 03 February 2025
           announcement: The SS 710:2024 Code of Practice for OAE Activities aims to
