@@ -5,9 +5,9 @@ description: An official site developed by the OAE Council Singapore to provide
   reliable resources and latest happenings in the OAE landscape.
 image: /images/sharper_logo.png
 permalink: /
-notification: The public consultation period for the draft OAE Sector
-  Development Roadmap and Competency Framework has closed. Thank you for your
-  feedback.
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Singapore OAE
