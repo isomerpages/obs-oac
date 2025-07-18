@@ -7,6 +7,56 @@ variant: tiptap
 <h3><strong>Notable Media Events and Official Speeches</strong></h3>
 <p><em>Note: Channel NewsAsia (CNA), The Straits Times (ST)</em>
 </p>
+<h4>2025</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Headline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hyperlink</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S'pore travel agency Beyond Expeditions criticised for planning, safety
+issues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/life/travel/travel-agency-beyond-expeditions-criticised-for-planning-and-safety-issues" rel="noopener nofollow" target="_blank">Beyond Expeditions faces criticisms of poor planning and safety lapses</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SJI International resumes overseas trips amid ongoing probe into student's
+death in Maldives in 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/singapore/sji-international-resumes-overseas-trips-amid-ongoing-probe-into-students-death-in-maldives-in-2024" rel="noopener nofollow" target="_blank">SJI International overseas school trips resumes</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -25,6 +75,18 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Hyperlink</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S’porean student from SJI International dies during school trip in Maldives</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/singapore/sporean-student-from-sji-international-dies-during-school-trip-in-the-maldives?ref=more-on-this-topic" rel="noopener nofollow" target="_blank">Student died during overseas school trip</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
