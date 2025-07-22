@@ -38,7 +38,7 @@ variant: tiptap
 issues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.straitstimes.com/life/travel/travel-agency-beyond-expeditions-criticised-for-planning-and-safety-issues" rel="noopener nofollow" target="_blank">Beyond Expeditions faces criticisms of poor planning and safety lapses</a>
+<p><a href="https://www.straitstimes.com/life/travel/travel-agency-beyond-expeditions-criticised-for-planning-and-safety-issues" rel="noopener nofollow" target="_blank">ST: Beyond Expeditions faces criticisms of poor planning and safety lapses</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ issues</p>
 death in Maldives in 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.straitstimes.com/singapore/sji-international-resumes-overseas-trips-amid-ongoing-probe-into-students-death-in-maldives-in-2024" rel="noopener nofollow" target="_blank">SJI International overseas school trips resumes</a>
+<p><a href="https://www.straitstimes.com/singapore/sji-international-resumes-overseas-trips-amid-ongoing-probe-into-students-death-in-maldives-in-2024" rel="noopener nofollow" target="_blank">ST: SJI International overseas school trips resumes</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ death in Maldives in 2024</p>
 <p>S’porean student from SJI International dies during school trip in Maldives</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.straitstimes.com/singapore/sporean-student-from-sji-international-dies-during-school-trip-in-the-maldives?ref=more-on-this-topic" rel="noopener nofollow" target="_blank">Student died during overseas school trip</a>
+<p><a href="https://www.straitstimes.com/singapore/sporean-student-from-sji-international-dies-during-school-trip-in-the-maldives?ref=more-on-this-topic" rel="noopener nofollow" target="_blank">ST: Student died during overseas school trip</a>
 </p>
 </td>
 </tr>
