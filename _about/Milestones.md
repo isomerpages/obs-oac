@@ -52,12 +52,23 @@ at NOEC 2025</p>
 <p><strong>January 2025</strong> - Complete Research (Completed)</p>
 </li>
 <li>
-<p><strong>Target April 2025</strong> - Publish Key Research Findings</p>
+<p><strong>April 2025</strong> - Publish Key Research Findings (Completed)</p>
+</li>
+<li>
+<p><strong>June 2025</strong> - The public consultation for the Competency
+Framework (Drafts) concluded on 18 June 2025 (Completed)</p>
+</li>
+<li>
+<p><strong>July 2025</strong> - In-depth consultations with stakeholders</p>
+</li>
+<li>
+<p><strong>Target December 2025 </strong>- Publish Competency Framework</p>
 </li>
 </ul>
 <p>The Research Study has been completed. Details of the research and key
 findings (under construction) can be found on the <a href="/resources/learninghub/insights/" rel="noopener noreferrer nofollow" target="_blank">Council's Insights Page</a>.</p>
-<p>A draft of the OAE Competency Framework will be available on the <a href="/resources/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development Page </a>soon.</p>
+<p>A draft of the OAE Competency Framework is available on the <a href="https://www.singaporeoae.sg/noec-2025/" rel="noopener nofollow" target="_blank">NOEC 2025 page.</a>
+</p>
 <p></p>
 <h3><strong>Workstream: Safety, Compliance and Promotion</strong></h3>
 <p><em>Institute an OAE sector-specific Safety Compliance Monitoring and Promotional Plan by establishing effective compliance monitoring processes and developing a safety promotional plan.&nbsp;</em>
