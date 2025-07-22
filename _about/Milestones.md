@@ -59,7 +59,7 @@ at NOEC 2025</p>
 Framework (Drafts) concluded on 18 June 2025 (Completed)</p>
 </li>
 <li>
-<p><strong>July 2025</strong> - In-depth consultations with stakeholders</p>
+<p><strong>July 2025</strong> onwards - In-depth consultations with stakeholders</p>
 </li>
 <li>
 <p><strong>Target December 2025 </strong>- Publish Competency Framework</p>
