@@ -10,12 +10,12 @@ third_nav_title: Standards & Guidelines
 <a href="https://www.singaporestandardseshop.sg/Product/SSPdtDetail/e14ba9f1-a873-40fa-bcb4-aa0adeae4706" rel="noopener nofollow" target="_blank">Singapore Standards e-shop</a><em>.]</em>
 </p>
 <p>The SS OAEA, owned by Enterprise Singapore (<a href="https://www.enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ESG</a>), is co-convened by Outward
-Bound Singapore (<a href="https://www.nyc.gov.sg/en/obs" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and the Outdoor Learning
-and Adventure Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>) Association. It aims to enhance the
-quality and safety of Outdoor Adventure Education activities in Singapore.
-It encompasses land-based, water-based, and height activities, and is contextualised
-to include indoor conduct due to Singapore's urbanised environment and
-tropical climate.</p>
+Bound Singapore (<a href="https://obs.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">OBS</a>) and the Outdoor Learning and Adventure
+Education (<a href="https://www.olae.sg/" rel="noopener noreferrer nofollow" target="_blank">OLAE</a>)
+Association. It aims to enhance the quality and safety of Outdoor Adventure
+Education activities in Singapore. It encompasses land-based, water-based,
+and height activities, and is contextualised to include indoor conduct
+due to Singapore's urbanised environment and tropical climate.</p>
 <p>By setting a national standard for the Operations, Training and Certification
 of OAE providers, the objective is to:</p>
 <ul data-tight="true" class="tight">
